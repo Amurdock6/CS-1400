@@ -1,0 +1,4029 @@
+"r","3","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1649998964977","main.py"
+"o","3",,"Traceback (most recent call last):
+",,"stderr","1649998965061",
+"o","3",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 117, in <module>
+",,"stderr","1649998965061",
+"o","3",,"    main()
+",,"stderr","1649998965061",
+"o","3",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 114, in main
+",,"stderr","1649998965061",
+"o","3",,"    printValidMoves(clist[i])
+",,"stderr","1649998965061",
+"o","3",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 68, in printValidMoves
+",,"stderr","1649998965061",
+"o","3",,"    print(""\t  "", cp.pic(), ""at"", cp.location())
+",,"stderr","1649998965061",
+"o","3",,"AttributeError: 'Pawn' object has no attribute 'pic'
+",,"stderr","1649998965061",
+"o","3",,"
+Process finished with exit code 1
+",,"system","1649998965065",
+"r","4","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1649998987199","main.py"
+"o","4",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 118
+",,"stderr","1649998987311",
+"o","4",,"    if t == 1: return Pawn(c, x, y)
+",,"stderr","1649998987311",
+"o","4",,"               ^
+",,"stderr","1649998987311",
+"o","4",,"SyntaxError: 'return' outside function
+",,"stderr","1649998987311",
+"o","4",,"
+Process finished with exit code 1
+",,"system","1649998987311",
+"r","5","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1649999498566","main.py"
+"o","5",,"Traceback (most recent call last):
+",,"stderr","1649999498682",
+"o","5",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 124, in <module>
+",,"stderr","1649999498682",
+"o","5",,"    main()
+",,"stderr","1649999498682",
+"o","5",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 121, in main
+",,"stderr","1649999498682",
+"o","5",,"    printValidMoves(clist[i])
+",,"stderr","1649999498682",
+"o","5",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 75, in printValidMoves
+",,"stderr","1649999498682",
+"o","5",,"    print(""\t  "", cp.pic(), ""at"", cp.location())
+",,"stderr","1649999498682",
+"o","5",,"AttributeError: 'Knight' object has no attribute 'pic'
+",,"stderr","1649999498682",
+"o","5",,"
+Process finished with exit code 1
+",,"system","1649999498686",
+"r","6","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1649999585928","main.py"
+"o","6",,"
+Process finished with exit code 0
+",,"system","1649999586056",
+"r","7","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1649999926499","main.py"
+"o","7",,"Traceback (most recent call last):
+",,"stderr","1649999926618",
+"o","7",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 134, in <module>
+",,"stderr","1649999926618",
+"o","7",,"    main()
+",,"stderr","1649999926618",
+"o","7",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 131, in main
+",,"stderr","1649999926618",
+"o","7",,"    printValidMoves(clist[i])
+",,"stderr","1649999926618",
+"o","7",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 81, in printValidMoves
+",,"stderr","1649999926618",
+"o","7",,"    print(""\t  "", cp.pic(), ""at"", cp.location())
+",,"stderr","1649999926618",
+"o","7",,"AttributeError: 'Queen' object has no attribute 'pic'
+",,"stderr","1649999926618",
+"o","7",,"
+Process finished with exit code 1
+",,"system","1649999926618",
+"r","8","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000017619","main.py"
+"o","8",,"Traceback (most recent call last):
+",,"stderr","1650000017723",
+"o","8",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 137, in <module>
+",,"stderr","1650000017723",
+"o","8",,"    main()
+",,"stderr","1650000017723",
+"o","8",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 134, in main
+",,"stderr","1650000017723",
+"o","8",,"    printValidMoves(clist[i])
+",,"stderr","1650000017723",
+"o","8",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 84, in printValidMoves
+",,"stderr","1650000017723",
+"o","8",,"    print(""\t  "", cp.pic(), ""at"", cp.location())
+",,"stderr","1650000017723",
+"o","8",,"AttributeError: 'Rook' object has no attribute 'pic'
+",,"stderr","1650000017723",
+"o","8",,"
+Process finished with exit code 1
+",,"system","1650000017727",
+"r","9","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000142412","main.py"
+"o","9",,"Traceback (most recent call last):
+",,"stderr","1650000142535",
+"o","9",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 151, in <module>
+",,"stderr","1650000142535",
+"o","9",,"    main()
+",,"stderr","1650000142535",
+"o","9",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 148, in main
+",,"stderr","1650000142535",
+"o","9",,"    printValidMoves(clist[i])
+",,"stderr","1650000142535",
+"o","9",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 98, in printValidMoves
+",,"stderr","1650000142535",
+"o","9",,"    print(""\t  "", cp.pic(), ""at"", cp.location())
+",,"stderr","1650000142535",
+"o","9",,"AttributeError: 'Knight' object has no attribute 'pic'
+",,"stderr","1650000142535",
+"o","9",,"
+Process finished with exit code 1
+",,"system","1650000142535",
+"r","10","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000255648","main.py"
+"o","10",,"Traceback (most recent call last):
+",,"stderr","1650000255784",
+"o","10",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 157, in <module>
+",,"stderr","1650000255784",
+"o","10",,"    main()
+",,"stderr","1650000255784",
+"o","10",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 154, in main
+",,"stderr","1650000255784",
+"o","10",,"    printValidMoves(clist[i])
+",,"stderr","1650000255784",
+"o","10",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 104, in printValidMoves
+",,"stderr","1650000255784",
+"o","10",,"    print(""\t  "", cp.pic(), ""at"", cp.location())
+",,"stderr","1650000255784",
+"o","10",,"AttributeError: 'King' object has no attribute 'location'
+",,"stderr","1650000255784",
+"o","10",,"
+Process finished with exit code 1
+",,"system","1650000255784",
+"r","11","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000501384","main.py"
+"o","11",,"	   (8, 8) at 8
+",,"stdout","1650000501508",
+"o","11",,"Traceback (most recent call last):
+",,"stderr","1650000501508",
+"o","11",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 180, in <module>
+",,"stderr","1650000501508",
+"o","11",,"    main()
+",,"stderr","1650000501508",
+"o","11",,"	7 ",,"stdout","1650000501508",
+"o","11",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 177, in main
+",,"stderr","1650000501508",
+"o","11",,"    printValidMoves(clist[i])
+",,"stderr","1650000501508",
+"o","11",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 131, in printValidMoves
+",,"stderr","1650000501508",
+"o","11",,"    if cp.x() == j and cp.y() == i:
+",,"stderr","1650000501508",
+"o","11",,"AttributeError: 'Rook' object has no attribute 'x'
+",,"stderr","1650000501508",
+"o","11",,"
+Process finished with exit code 1
+",,"system","1650000501516",
+"r","12","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000543419","main.py"
+"o","12",,"Traceback (most recent call last):
+",,"stderr","1650000543526",
+"o","12",,"	   (2, 1) at 2
+",,"stdout","1650000543526",
+"o","12",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 178, in <module>
+",,"stderr","1650000543526",
+"o","12",,"    main()
+",,"stderr","1650000543526",
+"o","12",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 175, in main
+",,"stderr","1650000543526",
+"o","12",,"    printValidMoves(clist[i])
+",,"stderr","1650000543526",
+"o","12",,"	7 ",,"stdout","1650000543526",
+"o","12",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 129, in printValidMoves
+",,"stderr","1650000543526",
+"o","12",,"    if cp.x() == j and cp.y() == i:
+",,"stderr","1650000543526",
+"o","12",,"AttributeError: 'Bishop' object has no attribute 'x'
+",,"stderr","1650000543526",
+"o","12",,"
+Process finished with exit code 1
+",,"system","1650000543530",
+"r","13","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000554999","main.py"
+"o","13",,"	   (2, 1) at 2
+",,"stdout","1650000555107",
+"o","13",,"Traceback (most recent call last):
+",,"stderr","1650000555107",
+"o","13",,"	7 ",,"stdout","1650000555107",
+"o","13",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 178, in <module>
+",,"stderr","1650000555107",
+"o","13",,"    main()
+",,"stderr","1650000555107",
+"o","13",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 175, in main
+",,"stderr","1650000555107",
+"o","13",,"    printValidMoves(clist[i])
+",,"stderr","1650000555107",
+"o","13",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 129, in printValidMoves
+",,"stderr","1650000555107",
+"o","13",,"    if cp.x() == j and cp.y() == i:
+",,"stderr","1650000555107",
+"o","13",,"AttributeError: 'Bishop' object has no attribute 'x'
+",,"stderr","1650000555107",
+"o","13",,"
+Process finished with exit code 1
+",,"system","1650000555107",
+"r","14","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000572853","main.py"
+"o","14",,"	   (8, 8) at 8
+",,"stdout","1650000572964",
+"o","14",,"Traceback (most recent call last):
+",,"stderr","1650000572964",
+"o","14",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 178, in <module>
+",,"stderr","1650000572964",
+"o","14",,"	7 ",,"stdout","1650000572964",
+"o","14",,"    main()
+",,"stderr","1650000572964",
+"o","14",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 175, in main
+",,"stderr","1650000572964",
+"o","14",,"    printValidMoves(clist[i])
+",,"stderr","1650000572964",
+"o","14",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 129, in printValidMoves
+",,"stderr","1650000572964",
+"o","14",,"    if cp.x() == j and cp.y() == i:
+",,"stderr","1650000572964",
+"o","14",,"AttributeError: 'Rook' object has no attribute 'x'
+",,"stderr","1650000572964",
+"o","14",,"
+Process finished with exit code 1
+",,"system","1650000572968",
+"r","15","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000625573","main.py"
+"o","15",,"Traceback (most recent call last):
+",,"stderr","1650000625681",
+"o","15",,"	   (2, 1) at 2
+",,"stdout","1650000625681",
+"o","15",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 180, in <module>
+",,"stderr","1650000625681",
+"o","15",,"    main()
+",,"stderr","1650000625681",
+"o","15",,"	7 ",,"stdout","1650000625681",
+"o","15",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 177, in main
+",,"stderr","1650000625681",
+"o","15",,"    printValidMoves(clist[i])
+",,"stderr","1650000625681",
+"o","15",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 131, in printValidMoves
+",,"stderr","1650000625681",
+"o","15",,"    if cp.x() == j and cp.y() == i:
+",,"stderr","1650000625681",
+"o","15",,"AttributeError: 'Knight' object has no attribute 'x'
+",,"stderr","1650000625681",
+"o","15",,"
+Process finished with exit code 1
+",,"system","1650000625681",
+"r","16","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000682367","main.py"
+"o","16",,"Traceback (most recent call last):
+",,"stderr","1650000682494",
+"o","16",,"	   (8, 8) at 8
+",,"stdout","1650000682494",
+"o","16",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 195, in <module>
+",,"stderr","1650000682494",
+"o","16",,"    main()
+",,"stderr","1650000682494",
+"o","16",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 192, in main
+",,"stderr","1650000682494",
+"o","16",,"	7 ",,"stdout","1650000682494",
+"o","16",,"    printValidMoves(clist[i])
+",,"stderr","1650000682494",
+"o","16",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 148, in printValidMoves
+",,"stderr","1650000682494",
+"o","16",,"    elif cp.validMove(j, i):
+",,"stderr","1650000682494",
+"o","16",,"AttributeError: 'Rook' object has no attribute 'validMove'
+",,"stderr","1650000682494",
+"o","16",,"
+Process finished with exit code 1
+",,"system","1650000682494",
+"r","17","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000795553","main.py"
+"o","17",,"Traceback (most recent call last):
+",,"stderr","1650000795665",
+"o","17",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 214, in <module>
+",,"stderr","1650000795665",
+"o","17",,"    main()
+",,"stderr","1650000795665",
+"o","17",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 211, in main
+",,"stderr","1650000795665",
+"o","17",,"    printValidMoves(clist[i])
+",,"stderr","1650000795665",
+"o","17",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 161, in printValidMoves
+",,"stderr","1650000795665",
+"o","17",,"    print(""\t  "", cp.pic(), ""at"", cp.location())
+",,"stderr","1650000795665",
+"o","17",,"AttributeError: 'Pawn' object has no attribute 'location'
+",,"stderr","1650000795665",
+"o","17",,"
+Process finished with exit code 1
+",,"system","1650000795665",
+"r","18","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000812123","main.py"
+"o","18",,"Traceback (most recent call last):
+",,"stderr","1650000812239",
+"o","18",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 217, in <module>
+",,"stderr","1650000812239",
+"o","18",,"	   (8, 8) at 8
+",,"stdout","1650000812239",
+"o","18",,"    main()
+",,"stderr","1650000812239",
+"o","18",,"	7 ",,"stdout","1650000812239",
+"o","18",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 214, in main
+",,"stderr","1650000812239",
+"o","18",,"    printValidMoves(clist[i])
+",,"stderr","1650000812239",
+"o","18",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 170, in printValidMoves
+",,"stderr","1650000812239",
+"o","18",,"    elif cp.validMove(j, i):
+",,"stderr","1650000812239",
+"o","18",,"TypeError: validMove() takes 1 positional argument but 3 were given
+",,"stderr","1650000812239",
+"o","18",,"
+Process finished with exit code 1
+",,"system","1650000812239",
+"r","19","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000858467","main.py"
+"o","19",,"	   (2, 1) at 2
+",,"stdout","1650000858755",
+"o","19",,"	7 ",,"stdout","1650000858755",
+"o","19",,"Traceback (most recent call last):
+",,"stderr","1650000858755",
+"o","19",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 217, in <module>
+",,"stderr","1650000858755",
+"o","19",,"    main()
+",,"stderr","1650000858755",
+"o","19",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 214, in main
+",,"stderr","1650000858755",
+"o","19",,"    printValidMoves(clist[i])
+",,"stderr","1650000858755",
+"o","19",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 170, in printValidMoves
+",,"stderr","1650000858755",
+"o","19",,"    elif cp.validMove(j, i):
+",,"stderr","1650000858755",
+"o","19",,"TypeError: validMove() takes 1 positional argument but 3 were given
+",,"stderr","1650000858755",
+"o","19",,"
+Process finished with exit code 1
+",,"system","1650000858759",
+"r","20","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650000949324","main.py"
+"o","20",,"Traceback (most recent call last):
+",,"stderr","1650000949575",
+"o","20",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in <module>
+",,"stderr","1650000949575",
+"o","20",,"    main()
+",,"stderr","1650000949575",
+"o","20",,"	   (8, 8) at 8
+",,"stdout","1650000949575",
+"o","20",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 232, in main
+",,"stderr","1650000949575",
+"o","20",,"	7 ",,"stdout","1650000949575",
+"o","20",,"    printValidMoves(clist[i])
+",,"stderr","1650000949575",
+"o","20",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 188, in printValidMoves
+",,"stderr","1650000949575",
+"o","20",,"    elif cp.validMove(j, i):
+",,"stderr","1650000949575",
+"o","20",,"TypeError: validMove() takes 1 positional argument but 3 were given
+",,"stderr","1650000949575",
+"o","20",,"
+Process finished with exit code 1
+",,"system","1650000949579",
+"r","21","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001076714","main.py"
+"o","21",,"	   1 at 1
+",,"stdout","1650001076841",
+"o","21",,"Traceback (most recent call last):
+",,"stderr","1650001076841",
+"o","21",,"	7 * * * * * * * * 
+",,"stdout","1650001076841",
+"o","21",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in <module>
+",,"stderr","1650001076841",
+"o","21",,"	6 * * * * * * * * 
+",,"stdout","1650001076841",
+"o","21",,"    main()
+",,"stderr","1650001076841",
+"o","21",,"	5 * * * * * * * * 
+",,"stdout","1650001076841",
+"o","21",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 232, in main
+",,"stderr","1650001076841",
+"o","21",,"	4 * * * * * * * * 
+",,"stdout","1650001076841",
+"o","21",,"    printValidMoves(clist[i])
+",,"stderr","1650001076841",
+"o","21",,"	3 * * * * * * * * 
+",,"stdout","1650001076841",
+"o","21",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 187, in printValidMoves
+",,"stderr","1650001076841",
+"o","21",,"    print(cp.pic() + "" "", end="""")
+",,"stderr","1650001076841",
+"o","21",,"	2 * * * * * * * * 
+",,"stdout","1650001076841",
+"o","21",,"TypeError: unsupported operand type(s) for +: 'int' and 'str'
+",,"stderr","1650001076841",
+"o","21",,"	1 * ",,"stdout","1650001076841",
+"o","21",,"
+Process finished with exit code 1
+",,"system","1650001076845",
+"r","22","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001199723","main.py"
+"o","22",,"	   (8, 8) at 8
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   1 at 1
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * 1 * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   (8, 8) at 8
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   (8, 8) at 8
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   (8, 8) at 8
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   (8, 8) at 8
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   (2, 1) at 2
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * (2, 1) * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   -1 at 7
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * -1 * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   (2, 1) at 2
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * (2, 1) * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"	   1 at 3
+",,"stdout","1650001199839",
+"o","22",,"	7 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	6 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	5 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	4 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	3 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	2 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	1 * 1 * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	0 * * * * * * * * 
+",,"stdout","1650001199839",
+"o","22",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001199839",
+"o","22",,"
+",,"stdout","1650001199839",
+"o","22",,"
+Process finished with exit code 0
+",,"system","1650001199839",
+"r","23","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001260710","main.py"
+"o","23",,"	   -1 at 3
+",,"stdout","1650001260818",
+"o","23",,"Traceback (most recent call last):
+",,"stderr","1650001260818",
+"o","23",,"	7 * * * * * * * * 
+",,"stdout","1650001260818",
+"o","23",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in <module>
+",,"stderr","1650001260818",
+"o","23",,"    main()
+",,"stderr","1650001260818",
+"o","23",,"	6 * * * * * * * * 
+",,"stdout","1650001260818",
+"o","23",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 232, in main
+",,"stderr","1650001260818",
+"o","23",,"	5 * * * * * * * * 
+",,"stdout","1650001260818",
+"o","23",,"    printValidMoves(clist[i])
+",,"stderr","1650001260818",
+"o","23",,"	4 * * * * * * * * 
+",,"stdout","1650001260818",
+"o","23",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 187, in printValidMoves
+",,"stderr","1650001260818",
+"o","23",,"	3 * * * * * * * * 
+",,"stdout","1650001260818",
+"o","23",,"    print(cp.pic() + "" "", end="""")
+",,"stderr","1650001260818",
+"o","23",,"	2 * * * * * * * * 
+",,"stdout","1650001260818",
+"o","23",,"TypeError: unsupported operand type(s) for +: 'int' and 'str'
+",,"stderr","1650001260818",
+"o","23",,"	1 * ",,"stdout","1650001260818",
+"o","23",,"
+Process finished with exit code 1
+",,"system","1650001260826",
+"r","24","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001313067","main.py"
+"o","24",,"Traceback (most recent call last):
+",,"stderr","1650001313315",
+"o","24",,"	   ('8', '8') at 8
+",,"stdout","1650001313315",
+"o","24",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in <module>
+",,"stderr","1650001313315",
+"o","24",,"    main()
+",,"stderr","1650001313315",
+"o","24",,"	7 * * * * * * * * 
+",,"stdout","1650001313315",
+"o","24",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 232, in main
+",,"stderr","1650001313315",
+"o","24",,"	6 * * * * * * * * 
+",,"stdout","1650001313315",
+"o","24",,"    printValidMoves(clist[i])
+",,"stderr","1650001313315",
+"o","24",,"	5 * * * * * * * * 
+",,"stdout","1650001313315",
+"o","24",,"	4 * * * * * * * * 
+",,"stdout","1650001313315",
+"o","24",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 187, in printValidMoves
+",,"stderr","1650001313315",
+"o","24",,"	3 * * * * * * * * 
+",,"stdout","1650001313315",
+"o","24",,"    print(cp.pic() + "" "", end="""")
+",,"stderr","1650001313315",
+"o","24",,"	2 * * * * * * * * 
+",,"stdout","1650001313315",
+"o","24",,"	1 * ",,"stdout","1650001313315",
+"o","24",,"TypeError: can only concatenate tuple (not ""str"") to tuple
+",,"stderr","1650001313315",
+"o","24",,"
+Process finished with exit code 1
+",,"system","1650001313315",
+"r","25","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001366873","main.py"
+"o","25",,"Traceback (most recent call last):
+",,"stderr","1650001367017",
+"o","25",,"	   (2, 1) at 2
+",,"stdout","1650001367017",
+"o","25",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in <module>
+",,"stderr","1650001367017",
+"o","25",,"	7 * * * * * * * * 
+",,"stdout","1650001367017",
+"o","25",,"    main()
+",,"stderr","1650001367017",
+"o","25",,"	6 * * * * * * * * 
+",,"stdout","1650001367017",
+"o","25",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 232, in main
+",,"stderr","1650001367017",
+"o","25",,"	5 * * * * * * * * 
+",,"stdout","1650001367017",
+"o","25",,"    printValidMoves(clist[i])
+",,"stderr","1650001367017",
+"o","25",,"	4 * * * * * * * * 
+",,"stdout","1650001367017",
+"o","25",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 187, in printValidMoves
+",,"stderr","1650001367017",
+"o","25",,"	3 * * * * * * * * 
+",,"stdout","1650001367017",
+"o","25",,"    print(cp.pic() + "" "", end="""")
+",,"stderr","1650001367017",
+"o","25",,"	2 * * * * * * * * 
+",,"stdout","1650001367017",
+"o","25",,"TypeError: can only concatenate tuple (not ""str"") to tuple
+",,"stderr","1650001367017",
+"o","25",,"	1 * ",,"stdout","1650001367017",
+"o","25",,"
+Process finished with exit code 1
+",,"system","1650001367021",
+"r","26","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001380957","main.py"
+"o","26",,"	   (8, 8) at 8
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (8, 8) at 8
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (8, 8) at 8
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (8, 8) at 8
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (2, 1) at 2
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (2, 1) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (2, 1) at 2
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (2, 1) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (2, 1) at 2
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (2, 1) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (8, 8) at 8
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (8, 8) at 8
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"	   (8, 8) at 8
+",,"stdout","1650001381093",
+"o","26",,"	7 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	6 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	5 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	4 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	3 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	2 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	0 * * * * * * * * 
+",,"stdout","1650001381093",
+"o","26",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001381093",
+"o","26",,"
+",,"stdout","1650001381093",
+"o","26",,"
+Process finished with exit code 0
+",,"system","1650001381101",
+"r","27","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001551175","main.py"
+"o","27",,"	   (8, 8) at 8
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   ? at 1
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * ? * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   (8, 8) at 8
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   (2, 1) at 2
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * (2, 1) * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   ? at 6
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * ? * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   1 at 2
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * 1 * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   ? at 1
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * ? * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   (8, 8) at 8
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   (8, 8) at 8
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"	   (8, 8) at 8
+",,"stdout","1650001551287",
+"o","27",,"	7 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	6 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	5 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	4 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	3 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	2 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	1 * (8, 8) * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	0 * * * * * * * * 
+",,"stdout","1650001551287",
+"o","27",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001551287",
+"o","27",,"
+",,"stdout","1650001551287",
+"o","27",,"
+Process finished with exit code 0
+",,"system","1650001551295",
+"r","28","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001715757","main.py"
+"o","28",,"	   ? at 6
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 3
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 4
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 0
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 1
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 3
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 0
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 2
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 6
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"	   ? at 6
+",,"stdout","1650001715909",
+"o","28",,"	7 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	6 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	5 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	4 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	3 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	2 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	1 * ? * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	0 * * * * * * * * 
+",,"stdout","1650001715909",
+"o","28",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001715909",
+"o","28",,"
+",,"stdout","1650001715909",
+"o","28",,"
+Process finished with exit code 0
+",,"system","1650001715917",
+"r","29","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001782541","main.py"
+"o","29",,"	   ? at 5
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * ? * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at (5, 6)
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * ? * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at 4
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * ? * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at (1, 4)
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * ? * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * * * ",,"stdout","1650001782681",
+"o","29",,"* * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at (5, 7)
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * ? * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at (7, 7)
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * ? 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at 2
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * ? * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at 5
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * ? * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at 5
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * ? * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"	   ? at 3
+",,"stdout","1650001782681",
+"o","29",,"	7 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	6 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	5 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	4 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	3 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	2 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	1 * ? * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	0 * * * * * * * * 
+",,"stdout","1650001782681",
+"o","29",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001782681",
+"o","29",,"
+",,"stdout","1650001782681",
+"o","29",,"
+Process finished with exit code 0
+",,"system","1650001782693",
+"r","30","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001822083","main.py"
+"o","30",,"	   ? at (3, 7)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (4, 5)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (5, 7)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * ? * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (7, 6)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (0, 3)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (6, 4)",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (3, 5)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (3, 7)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (7, 7)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * ? * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"	   ? at (3, 7)
+",,"stdout","1650001822219",
+"o","30",,"	7 * * * ? * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	6 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	5 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	4 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	3 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	2 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	1 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	0 * * * * * * * * 
+",,"stdout","1650001822219",
+"o","30",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001822219",
+"o","30",,"
+",,"stdout","1650001822219",
+"o","30",,"
+Process finished with exit code 0
+",,"system","1650001822231",
+"r","31","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650001930100","main.py"
+"o","31",,"	   ? at (2, 5)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * ? * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (7, 0)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * ? 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (3, 6)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * ? * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (1, 1)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * ? * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (6, 7)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * ? * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (7, 7)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * ? 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (1, 0)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * ? * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (4, 1)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * ? * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (5, 2)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * ? * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"	   ? at (6, 0)
+",,"stdout","1650001930239",
+"o","31",,"	7 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	6 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	5 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	4 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	3 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	2 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	1 * * * * * * * * 
+",,"stdout","1650001930239",
+"o","31",,"	0 * * * * * * ? * 
+",,"stdout","1650001930239",
+"o","31",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650001930239",
+"o","31",,"
+",,"stdout","1650001930239",
+"o","31",,"
+Process finished with exit code 0
+",,"system","1650001930239",
+"r","32","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002066903","main.py"
+"o","32",,"	   ? at (0, 5)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 ? * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (4, 4)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * ? * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (5, 7)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * ? * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (4, 5)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * ? * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (0, 6)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 ? * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (0, 0)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 ? * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (3, 0)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * * ? * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (1, 0)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * ? * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (2, 0)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * ? * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"	   ? at (4, 6)
+",,"stdout","1650002067043",
+"o","32",,"	7 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	6 * * * * ? ",,"stdout","1650002067043",
+"o","32",,"* * * 
+",,"stdout","1650002067043",
+"o","32",,"	5 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	4 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	3 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	2 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	1 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	0 * * * * * * * * 
+",,"stdout","1650002067043",
+"o","32",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002067043",
+"o","32",,"
+",,"stdout","1650002067043",
+"o","32",,"
+Process finished with exit code 0
+",,"system","1650002067051",
+"r","33","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002082378","main.py"
+"o","33",,"	   ? at (4, 4)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * ? * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (5, 3)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * ? * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (6, 6)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * ? * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (5, 5)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * ? * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (4, 0)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * ? * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (2, 7)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * ? * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (3, 5)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * ? * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (3, 6)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * ? * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (1, 3)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * ? * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"	   ? at (1, 6)
+",,"stdout","1650002082513",
+"o","33",,"	7 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	6 * ? * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	5 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	4 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	3 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	2 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	1 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	0 * * * * * * * * 
+",,"stdout","1650002082513",
+"o","33",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002082513",
+"o","33",,"
+",,"stdout","1650002082513",
+"o","33",,"
+Process finished with exit code 0
+",,"system","1650002082513",
+"r","34","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002097663","main.py"
+"o","34",,"	   ? at (1, 3)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * ? * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (1, 2)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * ? * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (2, 5)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * ? * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (6, 6)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * ? * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (2, 4)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * ? * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (1, 2)
+",,"stdout","1650002097774",
+"o","34",,"	7 ",,"stdout","1650002097774",
+"o","34",,"* * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * ? * * * ",,"stdout","1650002097774",
+"o","34",,"* * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (2, 7)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * ? * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (4, 7)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * ? * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (5, 5)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * ? * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"	   ? at (5, 7)
+",,"stdout","1650002097774",
+"o","34",,"	7 * * * * * ? * * 
+",,"stdout","1650002097774",
+"o","34",,"	6 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	5 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	4 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	3 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	2 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	1 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	0 * * * * * * * * 
+",,"stdout","1650002097774",
+"o","34",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002097774",
+"o","34",,"
+",,"stdout","1650002097774",
+"o","34",,"
+Process finished with exit code 0
+",,"system","1650002097786",
+"r","35","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002107966","main.py"
+"o","35",,"	   ? at (4, 0)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * ? * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (7, 2)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * ",,"stdout","1650002108090",
+"o","35",,"* * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * ? 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (6, 1)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * ? * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (4, 0)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * ? * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (2, 7)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * ? * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (7, 5)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * ? 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (0, 5)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 ? * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (6, 1)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * ? * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (0, 1)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 ? * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"	   ? at (1, 0)
+",,"stdout","1650002108090",
+"o","35",,"	7 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	6 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	5 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	4 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	3 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	2 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	1 * * * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	0 * ? * * * * * * 
+",,"stdout","1650002108090",
+"o","35",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002108090",
+"o","35",,"
+",,"stdout","1650002108090",
+"o","35",,"
+Process finished with exit code 0
+",,"system","1650002108102",
+"r","36","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002119365","main.py"
+"o","36",,"	   ? at (6, 4)
+",,"stdout","1650002119493",
+"o","36",,"	7 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 . * * * * * ? * 
+",,"stdout","1650002119493",
+"o","36",,"	3 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (3, 2)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 * * * ? * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (5, 5)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 * * * * * ? * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (1, 0)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * ? * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (6, 4)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * ? * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (4, 5)
+",,"stdout","1650002119493",
+"o","36",,"	7 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 . * * * ? * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 . * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (0, 2)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 ? * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (0, 5)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 ? * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (4, 5)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 * * * * ? * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"	   ? at (7, 7)
+",,"stdout","1650002119493",
+"o","36",,"	7 * * * * * * * ? 
+",,"stdout","1650002119493",
+"o","36",,"	6 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	5 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	4 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	3 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	2 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	1 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	0 * * * * * * * * 
+",,"stdout","1650002119493",
+"o","36",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002119493",
+"o","36",,"
+",,"stdout","1650002119493",
+"o","36",,"
+Process finished with exit code 0
+",,"system","1650002119501",
+"r","37","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002125255","main.py"
+"o","37",,"	   ? at (1, 0)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * ? * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (2, 5)
+",,"stdout","1650002125379",
+"o","37",,"	7 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	6 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	5 . . ? . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	4 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	3 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	2 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	1 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	0 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (4, 5)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * ? * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (4, 4)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * ? * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 ",,"stdout","1650002125379",
+"o","37",,"* * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (6, 7)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * ? * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (4, 6)
+",,"stdout","1650002125379",
+"o","37",,"	7 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	6 . . . . ? . . . 
+",,"stdout","1650002125379",
+"o","37",,"	5 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	4 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	3 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	2 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	1 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	0 . . . . . . . . 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (1, 6)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * ? * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (3, 1)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 * * * ? * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (6, 6)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * * * * * * ? * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"	   ? at (6, 0)
+",,"stdout","1650002125379",
+"o","37",,"	7 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	6 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	5 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	4 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	3 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	2 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	1 * * * * * * * * 
+",,"stdout","1650002125379",
+"o","37",,"	0 * * * * * * ? * 
+",,"stdout","1650002125379",
+"o","37",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002125379",
+"o","37",,"
+",,"stdout","1650002125379",
+"o","37",,"
+Process finished with exit code 0
+",,"system","1650002125391",
+"r","38","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002167602","main.py"
+"o","38",,"Traceback (most recent call last):
+",,"stderr","1650002167730",
+"o","38",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 238, in <module>
+",,"stderr","1650002167730",
+"o","38",,"    main()
+",,"stderr","1650002167730",
+"o","38",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in main
+",,"stderr","1650002167730",
+"o","38",,"	   ? at (6, 3)
+",,"stdout","1650002167730",
+"o","38",,"	7 ",,"stdout","1650002167730",
+"o","38",,"    printValidMoves(clist[i])
+",,"stderr","1650002167738",
+"o","38",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 191, in printValidMoves
+",,"stderr","1650002167738",
+"o","38",,"    elif cp.validMove(j, i):
+",,"stderr","1650002167738",
+"o","38",,"TypeError: validMove() takes 1 positional argument but 3 were given
+",,"stderr","1650002167738",
+"o","38",,"
+Process finished with exit code 1
+",,"system","1650002167738",
+"r","39","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002175967","main.py"
+"o","39",,"Traceback (most recent call last):
+",,"stderr","1650002176095",
+"o","39",,"	   ? at (4, 4)
+",,"stdout","1650002176095",
+"o","39",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 238, in <module>
+",,"stderr","1650002176095",
+"o","39",,"	7 ",,"stdout","1650002176095",
+"o","39",,"    main()
+",,"stderr","1650002176095",
+"o","39",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in main
+",,"stderr","1650002176095",
+"o","39",,"    printValidMoves(clist[i])
+",,"stderr","1650002176095",
+"o","39",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 191, in printValidMoves
+",,"stderr","1650002176095",
+"o","39",,"    elif cp.validMove(j, i):
+",,"stderr","1650002176095",
+"o","39",,"TypeError: validMove() takes 1 positional argument but 3 were given
+",,"stderr","1650002176095",
+"o","39",,"
+Process finished with exit code 1
+",,"system","1650002176099",
+"r","40","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002182663","main.py"
+"o","40",,"	   ? at (2, 0)
+",,"stdout","1650002182791",
+"o","40",,"	7 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	6 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	5 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	4 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	3 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	2 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	1 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	0 * * ? * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (1, 6)
+",,"stdout","1650002182791",
+"o","40",,"	7 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	6 . ? . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	5 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	4 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	3 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	2 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	1 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	0 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (3, 0)
+",,"stdout","1650002182791",
+"o","40",,"	7 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	6 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	5 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	4 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	3 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	2 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	1 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	0 * * * ? * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (0, 3)
+",,"stdout","1650002182791",
+"o","40",,"	7 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	6 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	5 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	4 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	3 ? * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	2 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	1 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	0 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (7, 1)
+",,"stdout","1650002182791",
+"o","40",,"	7 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	6 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	5 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	4 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	3 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	2 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	1 . . . . . . . ? 
+",,"stdout","1650002182791",
+"o","40",,"	0 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (3, 2)
+",,"stdout","1650002182791",
+"o","40",,"	7 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	6 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	5 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	4 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	3 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	2 . . . ? . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	1 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	0 . . . . . . . . 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (3, 0)
+",,"stdout","1650002182791",
+"o","40",,"	7 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	6 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	5 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	4 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	3 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	2 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	1 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	0 * * * ? * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (1, 1)
+",,"stdout","1650002182791",
+"o","40",,"	7 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	6 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	5 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	4 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	3 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	2 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	1 * ? * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	0 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (1, 0)
+",,"stdout","1650002182791",
+"o","40",,"	7 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	6 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	5 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	4 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	3 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	2 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	1 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	0 * ? * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"	   ? at (7, 5)
+",,"stdout","1650002182791",
+"o","40",,"	7 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	6 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	5 * * * * * * * ? 
+",,"stdout","1650002182791",
+"o","40",,"	4 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	3 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	2 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	1 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	0 * * * * * * * * 
+",,"stdout","1650002182791",
+"o","40",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002182791",
+"o","40",,"
+",,"stdout","1650002182791",
+"o","40",,"
+Process finished with exit code 0
+",,"system","1650002182803",
+"r","41","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002189141","main.py"
+"o","41",,"Traceback (most recent call last):
+",,"stderr","1650002189257",
+"o","41",,"	   ? at (0, 5)
+",,"stdout","1650002189261",
+"o","41",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 238, in <module>
+",,"stderr","1650002189261",
+"o","41",,"	7 * * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"    main()
+",,"stderr","1650002189261",
+"o","41",,"	6 * * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in main
+",,"stderr","1650002189261",
+"o","41",,"	5 ? * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"	4 * * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"    printValidMoves(clist[i])
+",,"stderr","1650002189261",
+"o","41",,"	3 * * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 191, in printValidMoves
+",,"stderr","1650002189261",
+"o","41",,"	2 * * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"    elif cp.validMove(j, i):
+",,"stderr","1650002189261",
+"o","41",,"	1 * * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"TypeError: validMove() takes 1 positional argument but 3 were given
+",,"stderr","1650002189261",
+"o","41",,"	0 * * * * * * * * 
+",,"stdout","1650002189261",
+"o","41",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002189261",
+"o","41",,"
+",,"stdout","1650002189261",
+"o","41",,"	   ? at (5, 5)
+",,"stdout","1650002189261",
+"o","41",,"	7 ",,"stdout","1650002189261",
+"o","41",,"
+Process finished with exit code 1
+",,"system","1650002189261",
+"r","42","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002193179","main.py"
+"o","42",,"	   ? at (7, 3)
+",,"stdout","1650002193359",
+"o","42",,"	7 * * * * * * * * 
+",,"stdout","1650002193359",
+"o","42",,"	6 * * * * * * * * 
+",,"stdout","1650002193359",
+"o","42",,"	5 * * * * * * * * 
+",,"stdout","1650002193359",
+"o","42",,"	4 * * * * * * * * 
+",,"stdout","1650002193359",
+"o","42",,"	3 * * * * * * * ? 
+",,"stdout","1650002193359",
+"o","42",,"	2 * * * * * * * * 
+",,"stdout","1650002193359",
+"o","42",,"	1 * * * * * * * * 
+",,"stdout","1650002193359",
+"o","42",,"	0 * * * * * * * * 
+",,"stdout","1650002193359",
+"o","42",,"	  0 1 2 3 4 5 6 7 ",,"stdout","1650002193359",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (5, 6)
+",,"stdout","1650002193363",
+"o","42",,"	7 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	6 . . . . . ? . . 
+",,"stdout","1650002193363",
+"o","42",,"	5 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	4 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	3 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	2 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	1 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	0 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (1, 5)
+",,"stdout","1650002193363",
+"o","42",,"	7 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	6 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	5 * ? * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	4 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	3 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	2 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	1 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	0 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (2, 3)
+",,"stdout","1650002193363",
+"o","42",,"	7 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	6 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	5 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	4 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	3 * * ? * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	2 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	1 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	0 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (4, 6)
+",,"stdout","1650002193363",
+"o","42",,"	7 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	6 * * * * ? * * * 
+",,"stdout","1650002193363",
+"o","42",,"	5 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	4 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	3 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	2 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	1 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	0 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (0, 7)
+",,"stdout","1650002193363",
+"o","42",,"	7 ? * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	6 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	5 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	4 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	3 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	2 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	1 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	0 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (4, 4)
+",,"stdout","1650002193363",
+"o","42",,"	7 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	6 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	5 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	4 . . . . ? . . . 
+",,"stdout","1650002193363",
+"o","42",,"	3 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	2 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	1 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	0 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (0, 7)
+",,"stdout","1650002193363",
+"o","42",,"	7 ? . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	6 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	5 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	4 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	3 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	2 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	1 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	0 . . . . . . . . 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (1, 0)
+",,"stdout","1650002193363",
+"o","42",,"	7 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	6 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	5 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	4 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	3 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	2 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	1 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	0 * ? * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"	   ? at (5, 4)
+",,"stdout","1650002193363",
+"o","42",,"	7 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	6 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	5 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	4 * * * * * ? * * 
+",,"stdout","1650002193363",
+"o","42",,"	3 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	2 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	1 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	0 * * * * * * * * 
+",,"stdout","1650002193363",
+"o","42",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002193363",
+"o","42",,"
+",,"stdout","1650002193363",
+"o","42",,"
+Process finished with exit code 0
+",,"system","1650002193379",
+"r","43","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn12/main.py",,"PythonRunner",,"1650002201745","main.py"
+"o","43",,"Traceback (most recent call last):
+",,"stderr","1650002201861",
+"o","43",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 238, in <module>
+",,"stderr","1650002201861",
+"o","43",,"    main()
+",,"stderr","1650002201861",
+"o","43",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 235, in main
+",,"stderr","1650002201861",
+"o","43",,"    printValidMoves(clist[i])
+",,"stderr","1650002201861",
+"o","43",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn12\main.py"", line 191, in printValidMoves
+",,"stderr","1650002201861",
+"o","43",,"    elif cp.validMove(j, i):
+",,"stderr","1650002201861",
+"o","43",,"TypeError: validMove() takes 1 positional argument but 3 were given
+",,"stderr","1650002201861",
+"o","43",,"	   ? at (4, 5)
+",,"stdout","1650002201861",
+"o","43",,"	7 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	6 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	5 * * * * ? * * * 
+",,"stdout","1650002201861",
+"o","43",,"	4 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	3 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	2 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	1 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	0 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002201861",
+"o","43",,"
+",,"stdout","1650002201861",
+"o","43",,"	   ? at (4, 5)
+",,"stdout","1650002201861",
+"o","43",,"	7 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	6 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	5 * * * * ? * * * 
+",,"stdout","1650002201861",
+"o","43",,"	4 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	3 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	2 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	1 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	0 * * * * * * * * 
+",,"stdout","1650002201861",
+"o","43",,"	  0 1 2 3 4 5 6 7 
+",,"stdout","1650002201861",
+"o","43",,"
+",,"stdout","1650002201861",
+"o","43",,"	   ? at (2, 0)
+",,"stdout","1650002201861",
+"o","43",,"	7 ",,"stdout","1650002201861",
+"o","43",,"
+Process finished with exit code 1
+",,"system","1650002201865",

@@ -1,0 +1,12 @@
+"r","3","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn7/main.py",,"PythonRunner",,"1646533048574","main.py"
+"o","3",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn7\main.py"", line 22
+",,"stderr","1646533048658",
+"o","3",,"    ""ching""
+",,"stderr","1646533048658",
+"o","3",,"    ^
+",,"stderr","1646533048658",
+"o","3",,"SyntaxError: invalid syntax
+",,"stderr","1646533048658",
+"o","3",,"
+Process finished with exit code 1
+",,"system","1646533048662",

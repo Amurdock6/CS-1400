@@ -1,0 +1,2440 @@
+"r","3","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645734720749","main.py"
+"o","3",,"
+",,"stdout","1645734721137",
+"o","3",,"
+",,"stdout","1645734721137",
+"o","3",,"Basketball List
+",,"stdout","1645734721137",
+"o","3",,"
+",,"stdout","1645734721137",
+"o","3",,"1 - Jump Short Kobe Bryant
+",,"stdout","1645734721137",
+"o","3",,"2 - Dunk Skinny Basketball 
+",,"stdout","1645734721137",
+"o","3",,"3 - Play Collegiate Allen Iverson
+",,"stdout","1645734721137",
+"o","3",,"4 - Jump Pro Vince Carter
+",,"stdout","1645734721137",
+"o","3",,"5 - Pass Pro Basketball 
+",,"stdout","1645734721137",
+"o","3",,"6 - Run Skinny Michael Jordan
+",,"stdout","1645734721137",
+"o","3",,"7 - Lose Tall Michael Jordan
+",,"stdout","1645734721137",
+"o","3",,"8 - Dunk Fat Kobe Bryant
+",,"stdout","1645734721137",
+"o","3",,"9 - Throw Weak Basketball 
+",,"stdout","1645734721137",
+"o","3",,"10 - Run Pro Michael Jordan
+",,"stdout","1645734721137",
+"o","3",,"
+",,"stdout","1645734721137",
+"o","3",,"
+",,"stdout","1645734721137",
+"o","3",,"
+Process finished with exit code 0
+",,"system","1645734721161",
+"r","4","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645734876087","main.py"
+"o","4",,"Traceback (most recent call last):
+",,"stderr","1645734876227",
+"o","4",,"
+",,"stdout","1645734876227",
+"o","4",,"
+",,"stdout","1645734876227",
+"o","4",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn6\main.py"", line 16, in <module>
+",,"stderr","1645734876227",
+"o","4",,"Basketball List
+",,"stdout","1645734876227",
+"o","4",,"
+",,"stdout","1645734876227",
+"o","4",,"    print(str(i) + ' - ' + random.choices(verbs) + random.choices(adjectives) + random.choices(nouns))
+",,"stderr","1645734876227",
+"o","4",,"TypeError: can only concatenate str (not ""list"") to str
+",,"stderr","1645734876227",
+"o","4",,"
+Process finished with exit code 1
+",,"system","1645734876235",
+"r","5","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645734933216","main.py"
+"o","5",,"
+",,"stdout","1645734933392",
+"o","5",,"
+",,"stdout","1645734933392",
+"o","5",,"Basketball List
+",,"stdout","1645734933392",
+"o","5",,"
+",,"stdout","1645734933392",
+"o","5",,"1 - ['Dunk ']['Tall ']['Kobe Bryant']
+",,"stdout","1645734933392",
+"o","5",,"2 - ['Throw ']['Weak ']['Basketball ']
+",,"stdout","1645734933392",
+"o","5",,"3 - ['Dunk ']['Collegiate ']['Kobe Bryant']
+",,"stdout","1645734933392",
+"o","5",,"4 - ['Pass ']['Weak ']['Lebron James']
+",,"stdout","1645734933392",
+"o","5",,"5 - ['Play ']['Skinny ']['Vince Carter']
+",,"stdout","1645734933392",
+"o","5",,"6 - ['Pass ']['Strong ']['Kobe Bryant']
+",,"stdout","1645734933392",
+"o","5",,"7 - ['Dribble ']['Pro ']['Basketball ']
+",,"stdout","1645734933392",
+"o","5",,"8 - ['Run ']['Strong ']['Basketball ']
+",,"stdout","1645734933392",
+"o","5",,"9 - ['Win ']['Fast ']['Kobe Bryant']
+",,"stdout","1645734933392",
+"o","5",,"10 - ['Dribble ']['Skinny ']['Allen Iverson']
+",,"stdout","1645734933392",
+"o","5",,"
+",,"stdout","1645734933392",
+"o","5",,"
+",,"stdout","1645734933392",
+"o","5",,"
+Process finished with exit code 0
+",,"system","1645734933392",
+"r","6","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645734954900","main.py"
+"o","6",,"
+",,"stdout","1645734955036",
+"o","6",,"
+",,"stdout","1645734955036",
+"o","6",,"Basketball List
+",,"stdout","1645734955036",
+"o","6",,"
+",,"stdout","1645734955036",
+"o","6",,"1 - Play Fast Lebron James
+",,"stdout","1645734955036",
+"o","6",,"2 - Win Fat Vince Carter
+",,"stdout","1645734955036",
+"o","6",,"3 - Play Short Michael Jordan
+",,"stdout","1645734955036",
+"o","6",,"4 - Win Weak Basketball 
+",,"stdout","1645734955036",
+"o","6",,"5 - Jump Tall Kobe Bryant
+",,"stdout","1645734955036",
+"o","6",,"6 - Play Pro Kobe Bryant
+",,"stdout","1645734955036",
+"o","6",,"7 - Pass Strong Michael Jordan
+",,"stdout","1645734955036",
+"o","6",,"8 - Play Strong Basketball 
+",,"stdout","1645734955036",
+"o","6",,"9 - Shoot Pro Michael Jordan
+",,"stdout","1645734955036",
+"o","6",,"10 - Pass Collegiate Lebron James
+",,"stdout","1645734955036",
+"o","6",,"
+",,"stdout","1645734955036",
+"o","6",,"
+",,"stdout","1645734955036",
+"o","6",,"
+Process finished with exit code 0
+",,"system","1645734955040",
+"r","7","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735023896","main.py"
+"o","7",,"
+",,"stdout","1645735024068",
+"o","7",,"
+",,"stdout","1645735024068",
+"o","7",,"Basketball List
+",,"stdout","1645735024068",
+"o","7",,"
+",,"stdout","1645735024068",
+"o","7",,"1 - Pass Collegiate Ray Allen
+",,"stdout","1645735024068",
+"o","7",,"2 - Play Pro Lebron James
+",,"stdout","1645735024068",
+"o","7",,"3 - Dribble Tall Allen Iverson
+",,"stdout","1645735024068",
+"o","7",,"4 - Dribble Strong Kobe Bryant
+",,"stdout","1645735024068",
+"o","7",,"5 - Lose Skinny Michael Jordan
+",,"stdout","1645735024068",
+"o","7",,"6 - Play Tall Allen Iverson
+",,"stdout","1645735024068",
+"o","7",,"7 - Shoot Weak Vince Carter
+",,"stdout","1645735024068",
+"o","7",,"8 - Dribble Tall Vince Carter
+",,"stdout","1645735024068",
+"o","7",,"9 - Pass Collegiate Ray Allen
+",,"stdout","1645735024068",
+"o","7",,"10 - Throw Strong Ray Allen
+",,"stdout","1645735024068",
+"o","7",,"
+",,"stdout","1645735024068",
+"o","7",,"
+",,"stdout","1645735024068",
+"o","7",,"
+Process finished with exit code 0
+",,"system","1645735024068",
+"r","8","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735120708","main.py"
+"o","8",,"
+",,"stdout","1645735120876",
+"o","8",,"
+",,"stdout","1645735120876",
+"o","8",,"Basketball List
+",,"stdout","1645735120876",
+"o","8",,"
+",,"stdout","1645735120876",
+"o","8",,"1 - Pass Fast Allen Iverson
+",,"stdout","1645735120876",
+"o","8",,"2 - Jump Fast Michael Jordan
+",,"stdout","1645735120876",
+"o","8",,"3 - Play Skinny Allen Iverson
+",,"stdout","1645735120876",
+"o","8",,"4 - Shoot Pro Kobe Bryant
+",,"stdout","1645735120876",
+"o","8",,"5 - Run Fat Lebron James
+",,"stdout","1645735120876",
+"o","8",,"6 - Lose Slow Kobe Bryant
+",,"stdout","1645735120876",
+"o","8",,"7 - Lose Fast Kobe Bryant
+",,"stdout","1645735120876",
+"o","8",,"8 - Win Weak Lebron James
+",,"stdout","1645735120876",
+"o","8",,"9 - Dunk Strong Lebron James
+",,"stdout","1645735120876",
+"o","8",,"10 - Play Tall Basketball 
+",,"stdout","1645735120876",
+"o","8",,"
+",,"stdout","1645735120876",
+"o","8",,"
+",,"stdout","1645735120876",
+"o","8",,"
+Process finished with exit code 0
+",,"system","1645735120884",
+"r","9","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735267986","main.py"
+"o","9",,"
+",,"stdout","1645735268118",
+"o","9",,"
+",,"stdout","1645735268118",
+"o","9",,"Basketball List
+",,"stdout","1645735268118",
+"o","9",,"
+",,"stdout","1645735268118",
+"o","9",,"1 - Dribble Slow Michael Jordan
+",,"stdout","1645735268118",
+"o","9",,"2 - Jump Tall Ray Allen
+",,"stdout","1645735268118",
+"o","9",,"3 - Play Fat Vince Carter
+",,"stdout","1645735268118",
+"o","9",,"3 - Shoot Slow Basketball 
+",,"stdout","1645735268118",
+"o","9",,"4 - Throw Short Ray Allen
+",,"stdout","1645735268118",
+"o","9",,"5 - Run Skinny Basketball 
+",,"stdout","1645735268118",
+"o","9",,"5 - Dribble Slow Kobe Bryant
+",,"stdout","1645735268118",
+"o","9",,"6 - Play Tall Lebron James
+",,"stdout","1645735268118",
+"o","9",,"7 - Play Strong Michael Jordan
+",,"stdout","1645735268118",
+"o","9",,"7 - Run Pro Ray Allen
+",,"stdout","1645735268118",
+"o","9",,"8 - Shoot Pro Lebron James
+",,"stdout","1645735268118",
+"o","9",,"9 - Dunk Pro Basketball 
+",,"stdout","1645735268118",
+"o","9",,"9 - Throw Tall Ray Allen
+",,"stdout","1645735268118",
+"o","9",,"10 - Shoot Tall Allen Iverson
+",,"stdout","1645735268118",
+"o","9",,"11 - Lose Slow Michael Jordan
+",,"stdout","1645735268118",
+"o","9",,"
+",,"stdout","1645735268118",
+"o","9",,"
+",,"stdout","1645735268118",
+"o","9",,"
+Process finished with exit code 0
+",,"system","1645735268122",
+"r","10","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735364770","main.py"
+"o","10",,"
+",,"stdout","1645735364835",
+"o","10",,"
+",,"stdout","1645735364835",
+"o","10",,"Basketball List
+",,"stdout","1645735364835",
+"o","10",,"
+",,"stdout","1645735364835",
+"o","10",,"1 - Dribble Tall Basketball 
+",,"stdout","1645735364835",
+"o","10",,"2 - Run Weak Kobe Bryant
+",,"stdout","1645735364835",
+"o","10",,"3 - Dribble Short Lebron James
+",,"stdout","1645735364835",
+"o","10",,"3 - Shoot Slow Ray Allen
+",,"stdout","1645735364835",
+"o","10",,"4 - Dribble Fast Vince Carter
+",,"stdout","1645735364835",
+"o","10",,"5 - Shoot Skinny Michael Jordan
+",,"stdout","1645735364835",
+"o","10",,"5 - Shoot Skinny Vince Carter
+",,"stdout","1645735364835",
+"o","10",,"6 - Pass Fast Ray Allen
+",,"stdout","1645735364835",
+"o","10",,"7 - Jump Fat Michael Jordan
+",,"stdout","1645735364835",
+"o","10",,"7 - Throw Strong Lebron James
+",,"stdout","1645735364835",
+"o","10",,"8 - Throw Fat Lebron James
+",,"stdout","1645735364835",
+"o","10",,"9 - Throw Fat Lebron James
+",,"stdout","1645735364835",
+"o","10",,"9 - Dunk Slow Allen Iverson
+",,"stdout","1645735364835",
+"o","10",,"10 - Lose Short Kobe Bryant
+",,"stdout","1645735364835",
+"o","10",,"11 - Jump Short Ray Allen
+",,"stdout","1645735364835",
+"o","10",,"
+",,"stdout","1645735364835",
+"o","10",,"
+",,"stdout","1645735364835",
+"o","10",,"
+Process finished with exit code 0
+",,"system","1645735364844",
+"r","11","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735374757","main.py"
+"o","11",,"
+",,"stdout","1645735374836",
+"o","11",,"
+",,"stdout","1645735374836",
+"o","11",,"Basketball List
+",,"stdout","1645735374836",
+"o","11",,"
+",,"stdout","1645735374836",
+"o","11",,"1 - Throw Short Lebron James
+",,"stdout","1645735374836",
+"o","11",,"2 - Lose Short Lebron James
+",,"stdout","1645735374836",
+"o","11",,"3 - Lose Tall Vince Carter
+",,"stdout","1645735374836",
+"o","11",,"3 - Throw Skinny Vince Carter
+",,"stdout","1645735374836",
+"o","11",,"4 - Run Tall Lebron James
+",,"stdout","1645735374836",
+"o","11",,"5 - Jump Skinny Michael Jordan
+",,"stdout","1645735374836",
+"o","11",,"5 - Play Tall Ray Allen
+",,"stdout","1645735374836",
+"o","11",,"6 - Throw Pro Allen Iverson
+",,"stdout","1645735374836",
+"o","11",,"7 - Shoot Tall Basketball 
+",,"stdout","1645735374836",
+"o","11",,"7 - Shoot Strong Kobe Bryant
+",,"stdout","1645735374836",
+"o","11",,"8 - Jump Strong Michael Jordan
+",,"stdout","1645735374836",
+"o","11",,"9 - Pass Collegiate Lebron James
+",,"stdout","1645735374836",
+"o","11",,"9 - Win Strong Kobe Bryant
+",,"stdout","1645735374836",
+"o","11",,"10 - Win Fast Ray Allen
+",,"stdout","1645735374836",
+"o","11",,"11 - Play Tall Kobe Bryant
+",,"stdout","1645735374836",
+"o","11",,"
+",,"stdout","1645735374836",
+"o","11",,"
+",,"stdout","1645735374836",
+"o","11",,"
+Process finished with exit code 0
+",,"system","1645735374837",
+"r","12","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735383111","main.py"
+"o","12",,"
+",,"stdout","1645735383227",
+"o","12",,"
+",,"stdout","1645735383227",
+"o","12",,"Basketball List
+",,"stdout","1645735383227",
+"o","12",,"
+",,"stdout","1645735383227",
+"o","12",,"1 - Win Strong Lebron James
+",,"stdout","1645735383227",
+"o","12",,"2 - Pass Strong Kobe Bryant
+",,"stdout","1645735383227",
+"o","12",,"3 - Play Fat Kobe Bryant
+",,"stdout","1645735383227",
+"o","12",,"3 - Jump Fat Kobe Bryant
+",,"stdout","1645735383227",
+"o","12",,"4 - Lose Tall Michael Jordan
+",,"stdout","1645735383227",
+"o","12",,"5 - Run Weak Kobe Bryant
+",,"stdout","1645735383227",
+"o","12",,"5 - Pass Fast Vince Carter
+",,"stdout","1645735383227",
+"o","12",,"6 - Pass Short Lebron James
+",,"stdout","1645735383227",
+"o","12",,"7 - Throw Weak Ray Allen
+",,"stdout","1645735383227",
+"o","12",,"7 - Dunk Tall Vince Carter
+",,"stdout","1645735383227",
+"o","12",,"8 - Dunk Skinny Kobe Bryant
+",,"stdout","1645735383227",
+"o","12",,"9 - Pass Fat Lebron James
+",,"stdout","1645735383227",
+"o","12",,"
+",,"stdout","1645735383227",
+"o","12",,"
+",,"stdout","1645735383227",
+"o","12",,"
+Process finished with exit code 0
+",,"system","1645735383232",
+"r","13","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735387670","main.py"
+"o","13",,"
+",,"stdout","1645735387749",
+"o","13",,"
+",,"stdout","1645735387749",
+"o","13",,"Basketball List
+",,"stdout","1645735387749",
+"o","13",,"
+",,"stdout","1645735387749",
+"o","13",,"1 - Pass Tall Lebron James
+",,"stdout","1645735387749",
+"o","13",,"2 - Dribble Weak Michael Jordan
+",,"stdout","1645735387749",
+"o","13",,"3 - Win Short Michael Jordan
+",,"stdout","1645735387749",
+"o","13",,"3 - Win Slow Lebron James
+",,"stdout","1645735387749",
+"o","13",,"4 - Pass Strong Ray Allen
+",,"stdout","1645735387749",
+"o","13",,"5 - Dunk Pro Michael Jordan
+",,"stdout","1645735387749",
+"o","13",,"5 - Play Strong Basketball 
+",,"stdout","1645735387749",
+"o","13",,"6 - Lose Pro Michael Jordan
+",,"stdout","1645735387749",
+"o","13",,"7 - Dunk Slow Michael Jordan
+",,"stdout","1645735387749",
+"o","13",,"7 - Shoot Fat Michael Jordan
+",,"stdout","1645735387749",
+"o","13",,"8 - Throw Weak Basketball 
+",,"stdout","1645735387749",
+"o","13",,"9 - Jump Collegiate Allen Iverson
+",,"stdout","1645735387749",
+"o","13",,"
+Process finished with exit code 0
+",,"system","1645735387754",
+"r","14","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735395115","main.py"
+"o","14",,"
+",,"stdout","1645735395187",
+"o","14",,"
+",,"stdout","1645735395187",
+"o","14",,"Basketball List
+",,"stdout","1645735395187",
+"o","14",,"
+",,"stdout","1645735395187",
+"o","14",,"1 - Shoot Short Basketball 
+",,"stdout","1645735395187",
+"o","14",,"2 - Jump Weak Kobe Bryant
+",,"stdout","1645735395187",
+"o","14",,"3 - Shoot Slow Vince Carter
+",,"stdout","1645735395187",
+"o","14",,"3 - Shoot Slow Allen Iverson
+",,"stdout","1645735395187",
+"o","14",,"4 - Throw Collegiate Allen Iverson
+",,"stdout","1645735395187",
+"o","14",,"5 - Pass Pro Kobe Bryant
+",,"stdout","1645735395187",
+"o","14",,"5 - Pass Slow Allen Iverson
+",,"stdout","1645735395187",
+"o","14",,"6 - Throw Fast Vince Carter
+",,"stdout","1645735395187",
+"o","14",,"7 - Dunk Pro Michael Jordan
+",,"stdout","1645735395187",
+"o","14",,"7 - Win Fast Ray Allen
+",,"stdout","1645735395187",
+"o","14",,"8 - Pass Collegiate Lebron James
+",,"stdout","1645735395187",
+"o","14",,"9 - Throw Fast Ray Allen
+",,"stdout","1645735395187",
+"o","14",,"9 - Pass Strong Lebron James
+",,"stdout","1645735395187",
+"o","14",,"10 - Shoot Collegiate Lebron James
+",,"stdout","1645735395187",
+"o","14",,"11 - Win Skinny Vince Carter
+",,"stdout","1645735395187",
+"o","14",,"
+",,"stdout","1645735395187",
+"o","14",,"
+",,"stdout","1645735395187",
+"o","14",,"
+Process finished with exit code 0
+",,"system","1645735395187",
+"r","15","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735400064","main.py"
+"o","15",,"
+",,"stdout","1645735400134",
+"o","15",,"
+",,"stdout","1645735400134",
+"o","15",,"Basketball List
+",,"stdout","1645735400134",
+"o","15",,"
+",,"stdout","1645735400134",
+"o","15",,"1 - Shoot Skinny Kobe Bryant
+",,"stdout","1645735400134",
+"o","15",,"2 - Dribble Tall Michael Jordan
+",,"stdout","1645735400134",
+"o","15",,"3 - Jump Short Michael Jordan
+",,"stdout","1645735400134",
+"o","15",,"3 - Pass Strong Kobe Bryant
+",,"stdout","1645735400134",
+"o","15",,"4 - Run Fast Lebron James
+",,"stdout","1645735400134",
+"o","15",,"5 - Play Slow Allen Iverson
+",,"stdout","1645735400134",
+"o","15",,"5 - Play Tall Vince Carter
+",,"stdout","1645735400134",
+"o","15",,"6 - Play Strong Vince Carter
+",,"stdout","1645735400134",
+"o","15",,"7 - Pass Tall Lebron James
+",,"stdout","1645735400134",
+"o","15",,"7 - Win Short Vince Carter
+",,"stdout","1645735400134",
+"o","15",,"8 - Dribble Tall Allen Iverson
+",,"stdout","1645735400134",
+"o","15",,"9 - Shoot Slow Vince Carter
+",,"stdout","1645735400134",
+"o","15",,"
+",,"stdout","1645735400134",
+"o","15",,"
+",,"stdout","1645735400134",
+"o","15",,"
+Process finished with exit code 0
+",,"system","1645735400134",
+"r","16","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735439136","main.py"
+"o","16",,"
+",,"stdout","1645735439227",
+"o","16",,"
+",,"stdout","1645735439227",
+"o","16",,"Basketball List
+",,"stdout","1645735439227",
+"o","16",,"
+",,"stdout","1645735439227",
+"o","16",,"1 - Run Fast Allen Iverson
+",,"stdout","1645735439227",
+"o","16",,"2 - Play Tall Allen Iverson
+",,"stdout","1645735439227",
+"o","16",,"3 - Dunk Tall Ray Allen
+",,"stdout","1645735439227",
+"o","16",,"4 - Shoot Skinny Vince Carter
+",,"stdout","1645735439227",
+"o","16",,"5 - Jump Pro Vince Carter
+",,"stdout","1645735439227",
+"o","16",,"6 - Pass Strong Lebron James
+",,"stdout","1645735439227",
+"o","16",,"6 - Dunk Weak Kobe Bryant
+",,"stdout","1645735439227",
+"o","16",,"7 - Dribble Weak Kobe Bryant
+",,"stdout","1645735439227",
+"o","16",,"8 - Jump Pro Allen Iverson
+",,"stdout","1645735439227",
+"o","16",,"9 - Dribble Strong Kobe Bryant
+",,"stdout","1645735439227",
+"o","16",,"10 - Dribble Weak Michael Jordan
+",,"stdout","1645735439227",
+"o","16",,"11 - Play Strong Ray Allen
+",,"stdout","1645735439227",
+"o","16",,"
+",,"stdout","1645735439227",
+"o","16",,"
+",,"stdout","1645735439227",
+"o","16",,"
+Process finished with exit code 0
+",,"system","1645735439227",
+"r","17","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735452295","main.py"
+"o","17",,"
+",,"stdout","1645735452366",
+"o","17",,"
+",,"stdout","1645735452366",
+"o","17",,"Basketball List
+",,"stdout","1645735452366",
+"o","17",,"
+",,"stdout","1645735452366",
+"o","17",,"1 - Dribble Tall Michael Jordan
+",,"stdout","1645735452366",
+"o","17",,"2 - Jump Weak Allen Iverson
+",,"stdout","1645735452366",
+"o","17",,"3 - Run Slow Allen Iverson
+",,"stdout","1645735452366",
+"o","17",,"4 - Dunk Pro Michael Jordan
+",,"stdout","1645735452366",
+"o","17",,"5 - Shoot Short Ray Allen
+",,"stdout","1645735452366",
+"o","17",,"6 - Run Pro Ray Allen
+",,"stdout","1645735452366",
+"o","17",,"7 - Dribble Short Vince Carter
+",,"stdout","1645735452366",
+"o","17",,"8 - Jump Fat Vince Carter
+",,"stdout","1645735452366",
+"o","17",,"9 - Win Fat Vince Carter
+",,"stdout","1645735452366",
+"o","17",,"10 - Lose Skinny Lebron James
+",,"stdout","1645735452366",
+"o","17",,"11 - Dunk Pro Basketball 
+",,"stdout","1645735452366",
+"o","17",,"12 - Lose Collegiate Lebron James
+",,"stdout","1645735452366",
+"o","17",,"
+",,"stdout","1645735452366",
+"o","17",,"
+",,"stdout","1645735452366",
+"o","17",,"
+Process finished with exit code 0
+",,"system","1645735452366",
+"r","18","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735469245","main.py"
+"o","18",,"
+",,"stdout","1645735469316",
+"o","18",,"
+",,"stdout","1645735469316",
+"o","18",,"Basketball List
+",,"stdout","1645735469316",
+"o","18",,"
+",,"stdout","1645735469316",
+"o","18",,"1 - Throw Tall Ray Allen
+",,"stdout","1645735469316",
+"o","18",,"2 - Shoot Collegiate Vince Carter
+",,"stdout","1645735469316",
+"o","18",,"3 - Play Fat Michael Jordan
+",,"stdout","1645735469316",
+"o","18",,"4 - Dribble Tall Michael Jordan
+",,"stdout","1645735469316",
+"o","18",,"5 - Win Slow Basketball 
+",,"stdout","1645735469316",
+"o","18",,"6 - Throw Fat Allen Iverson
+",,"stdout","1645735469316",
+"o","18",,"7 - Shoot Tall Ray Allen
+",,"stdout","1645735469316",
+"o","18",,"8 - Win Short Allen Iverson
+",,"stdout","1645735469316",
+"o","18",,"9 - Jump Collegiate Vince Carter
+",,"stdout","1645735469316",
+"o","18",,"
+",,"stdout","1645735469316",
+"o","18",,"
+",,"stdout","1645735469316",
+"o","18",,"
+Process finished with exit code 0
+",,"system","1645735469316",
+"r","19","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735478995","main.py"
+"o","19",,"
+",,"stdout","1645735479074",
+"o","19",,"
+",,"stdout","1645735479074",
+"o","19",,"Basketball List
+",,"stdout","1645735479074",
+"o","19",,"
+",,"stdout","1645735479074",
+"o","19",,"1 - Play Collegiate Kobe Bryant
+",,"stdout","1645735479074",
+"o","19",,"2 - Play Pro Basketball 
+",,"stdout","1645735479074",
+"o","19",,"3 - Jump Pro Lebron James
+",,"stdout","1645735479074",
+"o","19",,"4 - Pass Tall Ray Allen
+",,"stdout","1645735479074",
+"o","19",,"5 - Shoot Weak Ray Allen
+",,"stdout","1645735479074",
+"o","19",,"6 - Dunk Strong Ray Allen
+",,"stdout","1645735479074",
+"o","19",,"7 - Play Skinny Kobe Bryant
+",,"stdout","1645735479074",
+"o","19",,"8 - Lose Tall Basketball 
+",,"stdout","1645735479074",
+"o","19",,"9 - Win Weak Michael Jordan
+",,"stdout","1645735479074",
+"o","19",,"10 - Throw Pro Kobe Bryant
+",,"stdout","1645735479074",
+"o","19",,"
+",,"stdout","1645735479074",
+"o","19",,"
+",,"stdout","1645735479074",
+"o","19",,"
+Process finished with exit code 0
+",,"system","1645735479080",
+"r","21","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735798545","main.py"
+"o","21",,"
+",,"stdout","1645735798672",
+"o","21",,"
+",,"stdout","1645735798672",
+"o","21",,"Basketball List
+",,"stdout","1645735798672",
+"o","21",,"
+",,"stdout","1645735798672",
+"o","21",,"1 - Play Weak Basketball 
+",,"stdout","1645735798672",
+"o","21",,"2 - Run Weak Ray Allen
+",,"stdout","1645735798672",
+"o","21",,"3 - Pass Short Ray Allen
+",,"stdout","1645735798672",
+"o","21",,"4 - Play Short Lebron James
+",,"stdout","1645735798672",
+"o","21",,"5 - Jump Collegiate Lebron James
+",,"stdout","1645735798672",
+"o","21",,"6 - Lose to Fast Lebron James
+",,"stdout","1645735798672",
+"o","21",,"7 - Dunk Fat Michael Jordan
+",,"stdout","1645735798672",
+"o","21",,"8 - Shoot Weak Lebron James
+",,"stdout","1645735798672",
+"o","21",,"9 - Throw to Fast Basketball 
+",,"stdout","1645735798672",
+"o","21",,"10 - Dunk Short Basketball 
+",,"stdout","1645735798672",
+"o","21",,"
+",,"stdout","1645735798672",
+"o","21",,"
+",,"stdout","1645735798672",
+"o","21",,"
+Process finished with exit code 0
+",,"system","1645735798675",
+"r","22","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735819851","main.py"
+"o","22",,"
+",,"stdout","1645735819926",
+"o","22",,"
+",,"stdout","1645735819926",
+"o","22",,"Basketball List
+",,"stdout","1645735819926",
+"o","22",,"
+",,"stdout","1645735819926",
+"o","22",,"1 - Win Short Kobe Bryant
+",,"stdout","1645735819926",
+"o","22",,"2 - Win Pro Ray Allen
+",,"stdout","1645735819926",
+"o","22",,"3 - Shoot Tall Ray Allen
+",,"stdout","1645735819926",
+"o","22",,"4 - Run with Slow Lebron James
+",,"stdout","1645735819926",
+"o","22",,"5 - Dribble to Fast Kobe Bryant
+",,"stdout","1645735819926",
+"o","22",,"6 - Jump to Fast Basketball 
+",,"stdout","1645735819926",
+"o","22",,"7 - Throw Pro Lebron James
+",,"stdout","1645735819926",
+"o","22",,"8 - Lose Tall Michael Jordan
+",,"stdout","1645735819926",
+"o","22",,"9 - Throw Tall Vince Carter
+",,"stdout","1645735819926",
+"o","22",,"10 - Win Short Kobe Bryant
+",,"stdout","1645735819926",
+"o","22",,"
+",,"stdout","1645735819926",
+"o","22",,"
+",,"stdout","1645735819926",
+"o","22",,"
+Process finished with exit code 0
+",,"system","1645735819933",
+"r","23","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735834224","main.py"
+"o","23",,"
+",,"stdout","1645735834280",
+"o","23",,"
+",,"stdout","1645735834280",
+"o","23",,"Basketball List
+",,"stdout","1645735834280",
+"o","23",,"
+",,"stdout","1645735834280",
+"o","23",,"1 - Pass with Slow Lebron James
+",,"stdout","1645735834280",
+"o","23",,"2 - Pass Weak Allen Iverson
+",,"stdout","1645735834280",
+"o","23",,"3 - Pass with Slow Vince Carter
+",,"stdout","1645735834280",
+"o","23",,"4 - Pass Short Basketball 
+",,"stdout","1645735834280",
+"o","23",,"5 - Play Collegiate Michael Jordan
+",,"stdout","1645735834280",
+"o","23",,"6 - Play Pro Ray Allen
+",,"stdout","1645735834280",
+"o","23",,"7 - Lose with Strong Vince Carter
+",,"stdout","1645735834281",
+"o","23",,"8 - Dribble with Slow Vince Carter
+",,"stdout","1645735834281",
+"o","23",,"9 - Throw Fat Kobe Bryant
+",,"stdout","1645735834281",
+"o","23",,"10 - Jump Pro Ray Allen
+",,"stdout","1645735834281",
+"o","23",,"
+",,"stdout","1645735834281",
+"o","23",,"
+",,"stdout","1645735834281",
+"o","23",,"
+Process finished with exit code 0
+",,"system","1645735834281",
+"r","24","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735927098","main.py"
+"o","24",,"
+",,"stdout","1645735927157",
+"o","24",,"
+",,"stdout","1645735927157",
+"o","24",,"Basketball List
+",,"stdout","1645735927157",
+"o","24",,"
+",,"stdout","1645735927157",
+"o","24",,"1 - Win againstto Fast Ray Allen
+",,"stdout","1645735927157",
+"o","24",,"2 - Run with Weak Basketball 
+",,"stdout","1645735927157",
+"o","24",,"3 - Shoot Collegiate Basketball 
+",,"stdout","1645735927157",
+"o","24",,"4 - Win againstPro Ray Allen
+",,"stdout","1645735927157",
+"o","24",,"5 - Win againstCollegiate Basketball 
+",,"stdout","1645735927157",
+"o","24",,"6 - Shoot with Slow Vince Carter
+",,"stdout","1645735927157",
+"o","24",,"7 - Dunk on Collegiate Kobe Bryant
+",,"stdout","1645735927157",
+"o","24",,"8 - Dribble with Slow Basketball 
+",,"stdout","1645735927157",
+"o","24",,"9 - Play Short Lebron James
+",,"stdout","1645735927157",
+"o","24",,"10 - Play Fat Basketball 
+",,"stdout","1645735927157",
+"o","24",,"
+",,"stdout","1645735927157",
+"o","24",,"
+",,"stdout","1645735927157",
+"o","24",,"
+Process finished with exit code 0
+",,"system","1645735927157",
+"r","25","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735961185","main.py"
+"o","25",,"
+",,"stdout","1645735961263",
+"o","25",,"
+",,"stdout","1645735961263",
+"o","25",,"Basketball List
+",,"stdout","1645735961263",
+"o","25",,"
+",,"stdout","1645735961263",
+"o","25",,"1 - Win against to Skinny Kobe Bryant
+",,"stdout","1645735961263",
+"o","25",,"2 - Play Collegiate Ray Allen
+",,"stdout","1645735961263",
+"o","25",,"3 - Dunk on Pro Michael Jordan
+",,"stdout","1645735961263",
+"o","25",,"4 - Play with Slow Allen Iverson
+",,"stdout","1645735961263",
+"o","25",,"5 - Shoot to Fast Basketball 
+",,"stdout","1645735961263",
+"o","25",,"6 - Jump Collegiate Basketball 
+",,"stdout","1645735961263",
+"o","25",,"7 - Play Collegiate Vince Carter
+",,"stdout","1645735961263",
+"o","25",,"8 - Play to Skinny Lebron James
+",,"stdout","1645735961263",
+"o","25",,"9 - Play Short Kobe Bryant
+",,"stdout","1645735961263",
+"o","25",,"10 - Pass with Slow Allen Iverson
+",,"stdout","1645735961263",
+"o","25",,"
+",,"stdout","1645735961263",
+"o","25",,"
+",,"stdout","1645735961263",
+"o","25",,"
+Process finished with exit code 0
+",,"system","1645735961269",
+"r","26","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645735986386","main.py"
+"o","26",,"
+",,"stdout","1645735986461",
+"o","26",,"
+",,"stdout","1645735986461",
+"o","26",,"Basketball List
+",,"stdout","1645735986461",
+"o","26",,"
+",,"stdout","1645735986461",
+"o","26",,"1 - Dribble Collegiate Michael Jordan
+",,"stdout","1645735986461",
+"o","26",,"2 - Shoot Collegiate Vince Carter
+",,"stdout","1645735986461",
+"o","26",,"3 - Shoot Pro Allen Iverson
+",,"stdout","1645735986461",
+"o","26",,"4 - Pass Short Lebron James
+",,"stdout","1645735986461",
+"o","26",,"5 - Win against Collegiate Lebron James
+",,"stdout","1645735986461",
+"o","26",,"6 - Play Pro Basketball 
+",,"stdout","1645735986461",
+"o","26",,"7 - Shoot Tall Basketball 
+",,"stdout","1645735986461",
+"o","26",,"8 - Run Skinny Lebron James
+",,"stdout","1645735986461",
+"o","26",,"9 - Dribble to Fast Vince Carter
+",,"stdout","1645735986461",
+"o","26",,"10 - Shoot with Strong Michael Jordan
+",,"stdout","1645735986461",
+"o","26",,"
+",,"stdout","1645735986461",
+"o","26",,"
+",,"stdout","1645735986461",
+"o","26",,"
+Process finished with exit code 0
+",,"system","1645735986462",
+"r","27","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645736091567","main.py"
+"o","27",,"
+",,"stdout","1645736091629",
+"o","27",,"
+",,"stdout","1645736091629",
+"o","27",,"Basketball List
+",,"stdout","1645736091629",
+"o","27",,"
+",,"stdout","1645736091629",
+"o","27",,"1 - Shoot withSlow Ray Allen
+",,"stdout","1645736091629",
+"o","27",,"2 - Dribble aroundShort Allen Iverson
+",,"stdout","1645736091629",
+"o","27",,"3 - Dunk on Collegiate Vince Carter
+",,"stdout","1645736091629",
+"o","27",,"4 - Dribble aroundTall Lebron James
+",,"stdout","1645736091629",
+"o","27",,"5 - Dribble aroundFat Lebron James
+",,"stdout","1645736091629",
+"o","27",,"6 - Pass withSlow Michael Jordan
+",,"stdout","1645736091629",
+"o","27",,"7 - Dunk on Fat Vince Carter
+",,"stdout","1645736091629",
+"o","27",,"8 - Run pastCollegiate Ray Allen
+",,"stdout","1645736091629",
+"o","27",,"9 - Dunk on Pro Kobe Bryant
+",,"stdout","1645736091629",
+"o","27",,"10 - Dunk on Collegiate Basketball 
+",,"stdout","1645736091629",
+"o","27",,"
+",,"stdout","1645736091629",
+"o","27",,"
+",,"stdout","1645736091629",
+"o","27",,"
+Process finished with exit code 0
+",,"system","1645736091635",
+"r","28","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645736122994","main.py"
+"o","28",,"
+",,"stdout","1645736123059",
+"o","28",,"
+",,"stdout","1645736123059",
+"o","28",,"Basketball List
+",,"stdout","1645736123059",
+"o","28",,"
+",,"stdout","1645736123059",
+"o","28",,"1 - Win against Strong Basketball 
+",,"stdout","1645736123059",
+"o","28",,"2 - Jump over Slow Basketball 
+",,"stdout","1645736123059",
+"o","28",,"3 - Play with Fat Michael Jordan
+",,"stdout","1645736123059",
+"o","28",,"4 - Run past Short Lebron James
+",,"stdout","1645736123059",
+"o","28",,"5 - Play with Tall Allen Iverson
+",,"stdout","1645736123059",
+"o","28",,"6 - Throw with Collegiate Michael Jordan
+",,"stdout","1645736123059",
+"o","28",,"7 - Pass with Fat Kobe Bryant
+",,"stdout","1645736123059",
+"o","28",,"8 - Lose against Collegiate Allen Iverson
+",,"stdout","1645736123059",
+"o","28",,"9 - Dunk on Pro Lebron James
+",,"stdout","1645736123059",
+"o","28",,"10 - Lose against Fat Vince Carter
+",,"stdout","1645736123059",
+"o","28",,"
+",,"stdout","1645736123059",
+"o","28",,"
+",,"stdout","1645736123059",
+"o","28",,"
+Process finished with exit code 0
+",,"system","1645736123064",
+"r","29","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645736143086","main.py"
+"o","29",,"
+",,"stdout","1645736143142",
+"o","29",,"
+",,"stdout","1645736143142",
+"o","29",,"Basketball List
+",,"stdout","1645736143142",
+"o","29",,"
+",,"stdout","1645736143142",
+"o","29",,"1 - Dribble around Tall Kobe Bryant
+",,"stdout","1645736143142",
+"o","29",,"2 - Run past Collegiate John Stockton 
+",,"stdout","1645736143142",
+"o","29",,"3 - Play with Collegiate Ray Allen
+",,"stdout","1645736143142",
+"o","29",,"4 - Dribble around Tall Vince Carter
+",,"stdout","1645736143142",
+"o","29",,"5 - Dribble around Tall Michael Jordan
+",,"stdout","1645736143142",
+"o","29",,"6 - Lose against Weak Ray Allen
+",,"stdout","1645736143142",
+"o","29",,"7 - Win against Slow Vince Carter
+",,"stdout","1645736143142",
+"o","29",,"8 - Dribble around Strong Kobe Bryant
+",,"stdout","1645736143142",
+"o","29",,"9 - Throw with Strong Allen Iverson
+",,"stdout","1645736143142",
+"o","29",,"10 - Jump over Strong Michael Jordan
+",,"stdout","1645736143142",
+"o","29",,"
+",,"stdout","1645736143142",
+"o","29",,"
+",,"stdout","1645736143142",
+"o","29",,"
+Process finished with exit code 0
+",,"system","1645736143149",
+"r","30","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645736258439","main.py"
+"o","30",,"
+",,"stdout","1645736258506",
+"o","30",,"
+",,"stdout","1645736258506",
+"o","30",,"Basketball List
+",,"stdout","1645736258506",
+"o","30",,"
+",,"stdout","1645736258506",
+"o","30",,"1 - Win against Fat Lebron James
+",,"stdout","1645736258506",
+"o","30",,"2 - Throw with Strong Allen Iverson
+",,"stdout","1645736258506",
+"o","30",,"3 - Jump over Weak John Stockton 
+",,"stdout","1645736258506",
+"o","30",,"4 - Jump over Slow Vince Carter
+",,"stdout","1645736258506",
+"o","30",,"5 - Lose against Collegiate John Stockton 
+",,"stdout","1645736258506",
+"o","30",,"6 - Win against Fat Allen Iverson
+",,"stdout","1645736258506",
+"o","30",,"7 - Lose against Fat Lebron James
+",,"stdout","1645736258506",
+"o","30",,"8 - Dribble around Collegiate Ray Allen
+",,"stdout","1645736258506",
+"o","30",,"9 - Play with Strong John Stockton 
+",,"stdout","1645736258506",
+"o","30",,"10 - Lose against Weak Ray Allen
+",,"stdout","1645736258506",
+"o","30",,"
+",,"stdout","1645736258506",
+"o","30",,"
+",,"stdout","1645736258506",
+"o","30",,"
+Process finished with exit code 0
+",,"system","1645736258506",
+"r","31","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645736328559","main.py"
+"o","31",,"
+",,"stdout","1645736328622",
+"o","31",,"
+",,"stdout","1645736328622",
+"o","31",,"Basketball List
+",,"stdout","1645736328622",
+"o","31",,"
+",,"stdout","1645736328622",
+"o","31",,"1 - Win Against Short Kobe Bryant.
+",,"stdout","1645736328622",
+"o","31",,"2 - Run Past Short Michael Jordan.
+",,"stdout","1645736328622",
+"o","31",,"3 - Pass With Tall Lebron James.
+",,"stdout","1645736328622",
+"o","31",,"4 - Win Against Short Vince Carter.
+",,"stdout","1645736328622",
+"o","31",,"5 - Dribble Around Slow Kobe Bryant.
+",,"stdout","1645736328622",
+"o","31",,"6 - Dunk On Tall Ray Allen.
+",,"stdout","1645736328622",
+"o","31",,"7 - Pass With Slow John Stockton.
+",,"stdout","1645736328622",
+"o","31",,"8 - Play With Short Kobe Bryant.
+",,"stdout","1645736328622",
+"o","31",,"9 - Shoot With Slow John Stockton.
+",,"stdout","1645736328622",
+"o","31",,"10 - Lose Against Weak Allen Iverson.
+",,"stdout","1645736328622",
+"o","31",,"
+",,"stdout","1645736328622",
+"o","31",,"
+",,"stdout","1645736328622",
+"o","31",,"
+Process finished with exit code 0
+",,"system","1645736328626",
+"r","32","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645736377449","main.py"
+"o","32",,"
+",,"stdout","1645736377521",
+"o","32",,"
+",,"stdout","1645736377521",
+"o","32",,"Basketball List Generator
+",,"stdout","1645736377521",
+"o","32",,"
+",,"stdout","1645736377521",
+"o","32",,"1 - Lose Against Strong Lebron James.
+",,"stdout","1645736377521",
+"o","32",,"2 - Throw With Slow Ray Allen.
+",,"stdout","1645736377521",
+"o","32",,"3 - Play With Weak Allen Iverson.
+",,"stdout","1645736377521",
+"o","32",,"4 - Win Against Collegiate Allen Iverson.
+",,"stdout","1645736377521",
+"o","32",,"5 - Throw With Fast Allen Iverson.
+",,"stdout","1645736377521",
+"o","32",,"6 - Pass With Strong John Stockton.
+",,"stdout","1645736377521",
+"o","32",,"7 - Win Against Tall Ray Allen.
+",,"stdout","1645736377521",
+"o","32",,"8 - Run Past Pro Kobe Bryant.
+",,"stdout","1645736377521",
+"o","32",,"9 - Dunk On Skinny Kobe Bryant.
+",,"stdout","1645736377521",
+"o","32",,"10 - Run Past Weak Michael Jordan.
+",,"stdout","1645736377521",
+"o","32",,"
+",,"stdout","1645736377521",
+"o","32",,"
+",,"stdout","1645736377521",
+"o","32",,"
+Process finished with exit code 0
+",,"system","1645736377521",
+"r","33","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737096250","main.py"
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"Basketball List Generator
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"1 - Throw With Pro Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"2 - Lose Against Short Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"3 - Dunk On Tall Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"4 - Play With Skinny Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"5 - Run Past Fat Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"6 - Run Past Pro Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"7 - Play With Tall Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"8 - Dribble Around Slow John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"9 - Lose Against Slow Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"10 - Win Against Short Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"11 - Throw With Skinny John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"12 - Dribble Around Skinny Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"13 - Throw With Pro John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"14 - Dribble Around Slow Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"15 - Run Past Pro Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"16 - Play With Pro Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"17 - Pass With Tall Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"18 - Throw With Fat Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"19 - Win Against Short John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"20 - Pass With Weak Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"21 - Dunk On Fast Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"22 - Jump Over Short Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"23 - Dribble Around Slow Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"24 - Pass With Tall Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"25 - Lose Against Pro Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"26 - Jump Over Fat John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"27 - Dunk On Short Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"28 - Throw With Short Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"29 - Win Against Fat Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"30 - Dunk On Short John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"31 - Shoot With Skinny Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"32 - Play With Short Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"33 - Dribble Around Tall Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"34 - Pass With Fast Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"35 - Lose Against Strong John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"36 - Run Past Strong Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"37 - Lose Against Fat Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"38 - Play With Short John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"39 - Shoot With Collegiate Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"40 - Dunk On Short Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"41 - Shoot With Collegiate Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"42 - Lose Against Short Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"43 - Pass With Tall Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"44 - Lose Against Tall Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"45 - Throw With Skinny Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"46 - Shoot With Fat Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"47 - Win Against Short Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"48 - Dunk On Pro Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"49 - Play With Pro John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"50 - Play With Strong Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"51 - Win Against Pro Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"52 - Dunk On Weak Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"53 - Win Against Fat Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"54 - Win Against Short Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"55 - Dribble Around Fat Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"56 - Win Against Slow Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"57 - Run Past Pro Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"58 - Win Against Slow Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"59 - Shoot With Pro Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"60 - Pass With Fat Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"61 - Lose Against Pro Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"62 - Shoot With Pro Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"63 - Shoot With Fast Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"64 - Win Against Weak Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"65 - Win Against Short Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"66 - Dribble Around Fast Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"67 - Lose Against Pro Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"68 - Dunk On Weak Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"69 - Win Against Weak Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"70 - Dunk On Fast Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"71 - Throw With Short Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"72 - Run Past Weak Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"73 - Run Past Collegiate John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"74 - Throw With Collegiate Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"75 - Dribble Around Pro John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"76 - Dunk On Collegiate Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"77 - Throw With Tall Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"78 - Throw With Slow Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"79 - Lose Against Skinny Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"80 - Throw With Short Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"81 - Win Against Strong Lebron James.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"82 - Throw With Slow Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"83 - Throw With Fat Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"84 - Play With Short Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"85 - Shoot With Tall Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"86 - Play With Collegiate Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"87 - Throw With Slow Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"88 - Play With Skinny Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"89 - Play With Short Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"90 - Dunk On Slow John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"91 - Play With Skinny Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"92 - Jump Over Fat John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"93 - Shoot With Weak Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"94 - Dunk On Weak Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"95 - Shoot With Short Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"96 - Shoot With Short John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"97 - Jump Over Fat Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"98 - Win Against Skinny John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"99 - Shoot With Short Kobe Bryant.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"100 - Play With Short Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"101 - Throw With Weak John Stockton.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"102 - Lose Against Fast Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"103 - Dunk On Tall Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"104 - Jump Over Tall Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"105 - Run Past Tall Michael Jordan.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"106 - Lose Against Fat Vince Carter.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"107 - Lose Against Fat Allen Iverson.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"108 - Lose Against Collegiate Ray Allen.
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+",,"stdout","1645737096325",
+"o","33",,"
+Process finished with exit code 0
+",,"system","1645737096331",
+"r","34","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737159645","main.py"
+"o","34",,"
+",,"stdout","1645737159704",
+"o","34",,"
+",,"stdout","1645737159704",
+"o","34",,"Basketball List Generator
+",,"stdout","1645737159704",
+"o","34",,"
+",,"stdout","1645737159704",
+"o","34",,"1 - Dribble Around Skinny Kobe Bryant.
+",,"stdout","1645737159704",
+"o","34",,"2 - Pass With Weak Allen Iverson.
+",,"stdout","1645737159704",
+"o","34",,"3 - Jump Over Slow Kobe Bryant.
+",,"stdout","1645737159704",
+"o","34",,"4 - Dunk On Pro Kobe Bryant.
+",,"stdout","1645737159704",
+"o","34",,"5 - Shoot With Fat Michael Jordan.
+",,"stdout","1645737159704",
+"o","34",,"6 - Shoot With Fat Vince Carter.
+",,"stdout","1645737159704",
+"o","34",,"7 - Dunk On Fat Michael Jordan.
+",,"stdout","1645737159704",
+"o","34",,"8 - Run Past Short John Stockton.
+",,"stdout","1645737159704",
+"o","34",,"9 - Win Against Fat Vince Carter.
+",,"stdout","1645737159704",
+"o","34",,"10 - Win Against Slow Michael Jordan.
+",,"stdout","1645737159704",
+"o","34",,"11 - Dribble Around Slow Allen Iverson.
+",,"stdout","1645737159704",
+"o","34",,"12 - Dunk On Collegiate Vince Carter.
+",,"stdout","1645737159704",
+"o","34",,"13 - Run Past Strong Lebron James.
+",,"stdout","1645737159704",
+"o","34",,"14 - Play With Collegiate Kobe Bryant.
+",,"stdout","1645737159704",
+"o","34",,"15 - Dunk On Tall Michael Jordan.
+",,"stdout","1645737159704",
+"o","34",,"16 - Lose Against Tall Lebron James.
+",,"stdout","1645737159704",
+"o","34",,"17 - Throw With Tall Vince Carter.
+",,"stdout","1645737159704",
+"o","34",,"18 - Shoot With Strong Allen Iverson.
+",,"stdout","1645737159704",
+"o","34",,"
+",,"stdout","1645737159704",
+"o","34",,"
+",,"stdout","1645737159704",
+"o","34",,"
+Process finished with exit code 0
+",,"system","1645737159704",
+"r","35","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737182979","main.py"
+"o","35",,"
+",,"stdout","1645737183042",
+"o","35",,"
+",,"stdout","1645737183042",
+"o","35",,"Basketball List Generator
+",,"stdout","1645737183042",
+"o","35",,"
+",,"stdout","1645737183042",
+"o","35",,"1 - Lose Against Slow Vince Carter.
+",,"stdout","1645737183042",
+"o","35",,"2 - Dribble Around Collegiate Michael Jordan.
+",,"stdout","1645737183042",
+"o","35",,"3 - Lose Against Skinny Kobe Bryant.
+",,"stdout","1645737183042",
+"o","35",,"4 - Pass With Skinny John Stockton.
+",,"stdout","1645737183042",
+"o","35",,"5 - Jump Over Short Vince Carter.
+",,"stdout","1645737183042",
+"o","35",,"6 - Shoot With Weak Ray Allen.
+",,"stdout","1645737183042",
+"o","35",,"7 - Lose Against Tall Lebron James.
+",,"stdout","1645737183042",
+"o","35",,"8 - Throw With Pro Lebron James.
+",,"stdout","1645737183042",
+"o","35",,"9 - Jump Over Fat John Stockton.
+",,"stdout","1645737183042",
+"o","35",,"10 - Dunk On Skinny Kobe Bryant.
+",,"stdout","1645737183042",
+"o","35",,"11 - Pass With Pro Lebron James.
+",,"stdout","1645737183042",
+"o","35",,"12 - Lose Against Skinny Kobe Bryant.
+",,"stdout","1645737183042",
+"o","35",,"13 - Dribble Around Strong Lebron James.
+",,"stdout","1645737183042",
+"o","35",,"14 - Dribble Around Short John Stockton.
+",,"stdout","1645737183042",
+"o","35",,"15 - Win Against Fat Lebron James.
+",,"stdout","1645737183042",
+"o","35",,"16 - Run Past Fast Ray Allen.
+",,"stdout","1645737183042",
+"o","35",,"17 - Pass With Pro Allen Iverson.
+",,"stdout","1645737183043",
+"o","35",,"18 - Dunk On Fat Allen Iverson.
+",,"stdout","1645737183043",
+"o","35",,"
+",,"stdout","1645737183043",
+"o","35",,"
+",,"stdout","1645737183043",
+"o","35",,"
+Process finished with exit code 0
+",,"system","1645737183043",
+"r","36","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737197800","main.py"
+"o","36",,"
+",,"stdout","1645737197878",
+"o","36",,"
+",,"stdout","1645737197878",
+"o","36",,"Basketball List Generator
+",,"stdout","1645737197878",
+"o","36",,"
+",,"stdout","1645737197878",
+"o","36",,"1 - Play With Short Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"2 - Throw With Slow Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"3 - Dunk On Tall John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"4 - Play With Fat Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"5 - Lose Against Skinny Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"6 - Throw With Weak Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"7 - Jump Over Short Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"8 - Jump Over Skinny Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"9 - Pass With Slow John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"10 - Throw With Weak Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"11 - Shoot With Slow Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"12 - Lose Against Slow Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"13 - Throw With Strong Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"14 - Shoot With Weak Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"15 - Lose Against Collegiate Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"16 - Shoot With Slow Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"17 - Shoot With Short John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"18 - Shoot With Fast Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"19 - Run Past Pro Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"20 - Jump Over Collegiate Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"21 - Lose Against Pro Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"22 - Play With Fast Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"23 - Dunk On Tall John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"24 - Pass With Collegiate Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"25 - Jump Over Fast Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"26 - Play With Collegiate Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"27 - Throw With Slow Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"28 - Pass With Slow Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"29 - Win Against Pro Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"30 - Dribble Around Strong Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"31 - Throw With Tall Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"32 - Dribble Around Strong Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"33 - Lose Against Strong Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"34 - Win Against Pro Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"35 - Lose Against Short Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"36 - Throw With Skinny Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"37 - Jump Over Skinny John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"38 - Win Against Strong John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"39 - Pass With Pro John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"40 - Win Against Pro Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"41 - Play With Short Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"42 - Win Against Collegiate Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"43 - Throw With Strong Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"44 - Dribble Around Tall Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"45 - Lose Against Short Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"46 - Shoot With Slow Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"47 - Jump Over Pro Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"48 - Jump Over Short Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"49 - Shoot With Pro Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"50 - Play With Fast Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"51 - Play With Tall Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"52 - Dribble Around Fat Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"53 - Run Past Slow Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"54 - Win Against Slow Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"55 - Play With Weak Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"56 - Dribble Around Slow Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"57 - Throw With Fast Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"58 - Dribble Around Fat Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"59 - Dribble Around Fast Kobe Bryant.
+",,"stdout","1645737197878",
+"o","36",,"60 - Win Against Skinny Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"61 - Dunk On Strong Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"62 - Shoot With Collegiate Ray Allen.
+",,"stdout","1645737197878",
+"o","36",,"63 - Lose Against Fast Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"64 - Dunk On Weak Lebron James.
+",,"stdout","1645737197878",
+"o","36",,"65 - Pass With Collegiate Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"66 - Shoot With Short John Stockton.
+",,"stdout","1645737197878",
+"o","36",,"67 - Throw With Slow Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"68 - Dribble Around Pro Allen Iverson.
+",,"stdout","1645737197878",
+"o","36",,"69 - Dunk On Strong Vince Carter.
+",,"stdout","1645737197878",
+"o","36",,"70 - Win Against Collegiate Michael Jordan.
+",,"stdout","1645737197878",
+"o","36",,"
+",,"stdout","1645737197878",
+"o","36",,"
+",,"stdout","1645737197878",
+"o","36",,"
+Process finished with exit code 0
+",,"system","1645737197884",
+"r","37","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737207654","main.py"
+"o","37",,"
+",,"stdout","1645737207729",
+"o","37",,"
+",,"stdout","1645737207729",
+"o","37",,"Basketball List Generator
+",,"stdout","1645737207729",
+"o","37",,"
+",,"stdout","1645737207729",
+"o","37",,"1 - Run Past Fat Kobe Bryant.
+",,"stdout","1645737207729",
+"o","37",,"2 - Run Past Short John Stockton.
+",,"stdout","1645737207729",
+"o","37",,"3 - Shoot With Strong Kobe Bryant.
+",,"stdout","1645737207729",
+"o","37",,"4 - Dunk On Weak Lebron James.
+",,"stdout","1645737207729",
+"o","37",,"5 - Throw With Collegiate Kobe Bryant.
+",,"stdout","1645737207729",
+"o","37",,"6 - Jump Over Tall John Stockton.
+",,"stdout","1645737207729",
+"o","37",,"7 - Run Past Weak Allen Iverson.
+",,"stdout","1645737207729",
+"o","37",,"8 - Win Against Skinny Michael Jordan.
+",,"stdout","1645737207729",
+"o","37",,"9 - Jump Over Fast Kobe Bryant.
+",,"stdout","1645737207729",
+"o","37",,"10 - Run Past Fat John Stockton.
+",,"stdout","1645737207729",
+"o","37",,"11 - Lose Against Fat Allen Iverson.
+",,"stdout","1645737207729",
+"o","37",,"12 - Dribble Around Pro John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"13 - Dunk On Fat Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"14 - Play With Fat Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"15 - Dunk On Pro Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"16 - Run Past Fat Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"17 - Shoot With Skinny Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"18 - Shoot With Skinny Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"19 - Dribble Around Fast Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"20 - Dribble Around Collegiate Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"21 - Play With Weak John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"22 - Throw With Slow Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"23 - Run Past Fat Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"24 - Win Against Collegiate Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"25 - Throw With Pro John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"26 - Win Against Weak Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"27 - Throw With Pro John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"28 - Jump Over Strong Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"29 - Play With Strong Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"30 - Jump Over Skinny Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"31 - Jump Over Slow Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"32 - Lose Against Tall Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"33 - Dunk On Fast Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"34 - Shoot With Slow Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"35 - Dribble Around Short Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"36 - Shoot With Weak Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"37 - Jump Over Fast Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"38 - Jump Over Weak Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"39 - Run Past Strong Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"40 - Play With Short Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"41 - Play With Strong Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"42 - Shoot With Slow Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"43 - Win Against Fat Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"44 - Lose Against Weak Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"45 - Shoot With Skinny Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"46 - Play With Short Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"47 - Dunk On Weak John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"48 - Shoot With Weak John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"49 - Shoot With Weak Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"50 - Play With Strong Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"51 - Play With Strong Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"52 - Lose Against Strong Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"53 - Lose Against Tall Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"54 - Jump Over Weak Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"55 - Win Against Strong Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"56 - Pass With Weak Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"57 - Throw With Fat John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"58 - Win Against Strong Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"59 - Shoot With Fat John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"60 - Win Against Short John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"61 - Win Against Fast Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"62 - Run Past Short Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"63 - Dribble Around Weak Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"64 - Play With Fast Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"65 - Shoot With Fast Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"66 - Win Against Collegiate Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"67 - Jump Over Fat Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"68 - Jump Over Skinny Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"69 - Dunk On Fat Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"70 - Win Against Tall Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"71 - Run Past Collegiate Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"72 - Win Against Weak Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"73 - Pass With Tall Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"74 - Jump Over Collegiate Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"75 - Jump Over Slow Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"76 - Win Against Collegiate John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"77 - Win Against Skinny Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"78 - Pass With Weak Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"79 - Dribble Around Strong Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"80 - Pass With Short Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"81 - Jump Over Tall Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"82 - Shoot With Short Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"83 - Play With Slow Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"84 - Shoot With Fat Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"85 - Dunk On Weak Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"86 - Play With Fat Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"87 - Dribble Around Skinny Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"88 - Throw With Collegiate John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"89 - Shoot With Skinny Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"90 - Shoot With Slow Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"91 - Lose Against Skinny Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"92 - Shoot With Weak Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"93 - Play With Fast Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"94 - Pass With Weak Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"95 - Run Past Slow Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"96 - Shoot With Weak Lebron James.
+",,"stdout","1645737207730",
+"o","37",,"97 - Jump Over Skinny Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"98 - Shoot With Fat John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"99 - Jump Over Strong John Stockton.
+",,"stdout","1645737207730",
+"o","37",,"100 - Jump Over Short Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"101 - Run Past Slow Allen Iverson.
+",,"stdout","1645737207730",
+"o","37",,"102 - Dribble Around Fast Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"103 - Win Against Strong Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"104 - Throw With Tall Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"105 - Throw With Weak Vince Carter.
+",,"stdout","1645737207730",
+"o","37",,"106 - Play With Short Ray Allen.
+",,"stdout","1645737207730",
+"o","37",,"107 - Throw With Collegiate Kobe Bryant.
+",,"stdout","1645737207730",
+"o","37",,"108 - Dunk On Pro Michael Jordan.
+",,"stdout","1645737207730",
+"o","37",,"
+Process finished with exit code 0
+",,"system","1645737207730",
+"r","38","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737221059","main.py"
+"o","38",,"
+",,"stdout","1645737221140",
+"o","38",,"
+",,"stdout","1645737221140",
+"o","38",,"Basketball List Generator
+",,"stdout","1645737221140",
+"o","38",,"
+",,"stdout","1645737221140",
+"o","38",,"1 - Run Past Weak Ray Allen.
+",,"stdout","1645737221140",
+"o","38",,"2 - Win Against Collegiate Michael Jordan.
+",,"stdout","1645737221140",
+"o","38",,"3 - Lose Against Collegiate Allen Iverson.
+",,"stdout","1645737221140",
+"o","38",,"4 - Dunk On Strong Kobe Bryant.
+",,"stdout","1645737221140",
+"o","38",,"5 - Throw With Fat Vince Carter.
+",,"stdout","1645737221140",
+"o","38",,"6 - Shoot With Skinny Allen Iverson.
+",,"stdout","1645737221140",
+"o","38",,"7 - Play With Weak Kobe Bryant.
+",,"stdout","1645737221140",
+"o","38",,"8 - Pass With Pro Vince Carter.
+",,"stdout","1645737221140",
+"o","38",,"9 - Win Against Tall Ray Allen.
+",,"stdout","1645737221140",
+"o","38",,"10 - Dunk On Weak Kobe Bryant.
+",,"stdout","1645737221140",
+"o","38",,"
+",,"stdout","1645737221140",
+"o","38",,"
+",,"stdout","1645737221140",
+"o","38",,"
+",,"stdout","1645737221140",
+"o","38",,"
+",,"stdout","1645737221140",
+"o","38",,"
+Process finished with exit code 0
+",,"system","1645737221142",
+"r","39","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737260825","main.py"
+"o","39",,"
+",,"stdout","1645737260883",
+"o","39",,"
+",,"stdout","1645737260883",
+"o","39",,"Basketball List Generator
+",,"stdout","1645737260883",
+"o","39",,"
+",,"stdout","1645737260883",
+"o","39",,"1 - Dribble Around Short Michael Jordan.
+",,"stdout","1645737260883",
+"o","39",,"2 - Jump Over Strong Kobe Bryant.
+",,"stdout","1645737260883",
+"o","39",,"3 - Lose Against Weak Allen Iverson.
+",,"stdout","1645737260883",
+"o","39",,"4 - Lose Against Strong Ray Allen.
+",,"stdout","1645737260883",
+"o","39",,"5 - Dribble Around Strong Michael Jordan.
+",,"stdout","1645737260883",
+"o","39",,"6 - Dribble Around Short John Stockton.
+",,"stdout","1645737260883",
+"o","39",,"7 - Shoot With Tall Ray Allen.
+",,"stdout","1645737260883",
+"o","39",,"8 - Win Against Fast Allen Iverson.
+",,"stdout","1645737260883",
+"o","39",,"9 - Pass With Collegiate Allen Iverson.
+",,"stdout","1645737260883",
+"o","39",,"10 - Jump Over Fat Michael Jordan.
+",,"stdout","1645737260883",
+"o","39",,"
+",,"stdout","1645737260883",
+"o","39",,"
+",,"stdout","1645737260883",
+"o","39",,"
+Process finished with exit code 0
+",,"system","1645737260883",
+"r","40","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737266630","main.py"
+"o","40",,"
+",,"stdout","1645737266701",
+"o","40",,"
+",,"stdout","1645737266701",
+"o","40",,"Basketball List Generator
+",,"stdout","1645737266701",
+"o","40",,"
+",,"stdout","1645737266701",
+"o","40",,"1 - Win Against Short Michael Jordan.
+",,"stdout","1645737266701",
+"o","40",,"2 - Play With Fast Ray Allen.
+",,"stdout","1645737266701",
+"o","40",,"3 - Win Against Collegiate Michael Jordan.
+",,"stdout","1645737266701",
+"o","40",,"4 - Lose Against Fast Michael Jordan.
+",,"stdout","1645737266701",
+"o","40",,"5 - Dunk On Collegiate Lebron James.
+",,"stdout","1645737266701",
+"o","40",,"6 - Throw With Fat Allen Iverson.
+",,"stdout","1645737266701",
+"o","40",,"7 - Dribble Around Tall Michael Jordan.
+",,"stdout","1645737266701",
+"o","40",,"8 - Play With Skinny Kobe Bryant.
+",,"stdout","1645737266701",
+"o","40",,"9 - Throw With Skinny Michael Jordan.
+",,"stdout","1645737266701",
+"o","40",,"10 - Play With Skinny Lebron James.
+",,"stdout","1645737266701",
+"o","40",,"
+",,"stdout","1645737266701",
+"o","40",,"
+Process finished with exit code 0
+",,"system","1645737266702",
+"r","41","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737346850","main.py"
+"o","41",,"
+",,"stdout","1645737346934",
+"o","41",,"
+",,"stdout","1645737346934",
+"o","41",,"Basketball List Generator
+",,"stdout","1645737346934",
+"o","41",,"
+",,"stdout","1645737346934",
+"o","41",,"1 - aon
+",,"stdout","1645737346934",
+"o","41",,"2 - y n
+",,"stdout","1645737346935",
+"o","41",,"3 - hoe
+",,"stdout","1645737346935",
+"o","41",,"4 -  r.
+",,"stdout","1645737346935",
+"o","41",,"5 - W .
+",,"stdout","1645737346935",
+"o","41",,"6 - y l
+",,"stdout","1645737346935",
+"o","41",,"7 - Wo.
+",,"stdout","1645737346935",
+"o","41",,"8 - ahJ
+",,"stdout","1645737346935",
+"o","41",,"9 - WhJ
+",,"stdout","1645737346935",
+"o","41",,"10 - tol
+",,"stdout","1645737346935",
+"o","41",,"
+",,"stdout","1645737346935",
+"o","41",,"
+Process finished with exit code 0
+",,"system","1645737346935",
+"r","42","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737355181","main.py"
+"o","42",,"
+",,"stdout","1645737355264",
+"o","42",,"
+",,"stdout","1645737355264",
+"o","42",,"Basketball List Generator
+",,"stdout","1645737355264",
+"o","42",,"
+",,"stdout","1645737355264",
+"o","42",,"1 - Shoot With Collegiate John Stockton.
+",,"stdout","1645737355264",
+"o","42",,"2 - Play With Weak Kobe Bryant.
+",,"stdout","1645737355264",
+"o","42",,"3 - Run Past Weak Kobe Bryant.
+",,"stdout","1645737355264",
+"o","42",,"4 - Dunk On Strong Kobe Bryant.
+",,"stdout","1645737355264",
+"o","42",,"5 - Pass With Collegiate Lebron James.
+",,"stdout","1645737355264",
+"o","42",,"6 - Shoot With Strong Kobe Bryant.
+",,"stdout","1645737355264",
+"o","42",,"7 - Dunk On Fat Lebron James.
+",,"stdout","1645737355264",
+"o","42",,"8 - Win Against Strong Ray Allen.
+",,"stdout","1645737355264",
+"o","42",,"9 - Throw With Fast Ray Allen.
+",,"stdout","1645737355264",
+"o","42",,"10 - Lose Against Fat John Stockton.
+",,"stdout","1645737355264",
+"o","42",,"
+",,"stdout","1645737355264",
+"o","42",,"
+Process finished with exit code 0
+",,"system","1645737355265",
+"r","43","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737433560","main.py"
+"o","43",,"
+",,"stdout","1645737433628",
+"o","43",,"
+",,"stdout","1645737433628",
+"o","43",,"Basketball List Generator
+",,"stdout","1645737433628",
+"o","43",,"
+",,"stdout","1645737433628",
+"o","43",,"1 - Dribble Around Collegiate Kobe Bryant.
+",,"stdout","1645737433628",
+"o","43",,"2 - Run Past Collegiate John Stockton.
+",,"stdout","1645737433628",
+"o","43",,"3 - Pass With Collegiate Ray Allen.
+",,"stdout","1645737433628",
+"o","43",,"4 - Dribble Around Fast Vince Carter.
+",,"stdout","1645737433628",
+"o","43",,"5 - Throw With Short Lebron James.
+",,"stdout","1645737433628",
+"o","43",,"6 - Lose Against Fast John Stockton.
+",,"stdout","1645737433628",
+"o","43",,"7 - Lose Against Fast Michael Jordan.
+",,"stdout","1645737433628",
+"o","43",,"8 - Pass With Strong Ray Allen.
+",,"stdout","1645737433628",
+"o","43",,"9 - Jump Over Fast Ray Allen.
+",,"stdout","1645737433628",
+"o","43",,"10 - Jump Over Short Lebron James.
+",,"stdout","1645737433628",
+"o","43",,"
+",,"stdout","1645737433628",
+"o","43",,"
+Process finished with exit code 0
+",,"system","1645737433628",
+"r","44","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn6/main.py",,"PythonRunner",,"1645737493769","main.py"
+"o","44",,"
+",,"stdout","1645737493832",
+"o","44",,"
+",,"stdout","1645737493832",
+"o","44",,"Basketball List Generator
+",,"stdout","1645737493832",
+"o","44",,"
+",,"stdout","1645737493832",
+"o","44",,"1 - Throw With Fast Michael Jordan.
+",,"stdout","1645737493832",
+"o","44",,"2 - Dribble Around Young Allen Iverson.
+",,"stdout","1645737493832",
+"o","44",,"3 - Run Past Skinny Lebron James.
+",,"stdout","1645737493832",
+"o","44",,"4 - Pass With Strong Ray Allen.
+",,"stdout","1645737493832",
+"o","44",,"5 - Dunk On Pro Kobe Bryant.
+",,"stdout","1645737493832",
+"o","44",,"6 - Shoot With Fast Allen Iverson.
+",,"stdout","1645737493832",
+"o","44",,"7 - Run Past Skinny Ray Allen.
+",,"stdout","1645737493832",
+"o","44",,"8 - Shoot With Pro John Stockton.
+",,"stdout","1645737493832",
+"o","44",,"9 - Win Against Skinny Vince Carter.
+",,"stdout","1645737493832",
+"o","44",,"10 - Throw With Fat Ray Allen.
+",,"stdout","1645737493832",
+"o","44",,"
+",,"stdout","1645737493832",
+"o","44",,"
+Process finished with exit code 0
+",,"system","1645737493837",

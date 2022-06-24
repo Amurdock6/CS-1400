@@ -1,0 +1,792 @@
+"r","3","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn4/Murdock-Alexander-Assn4/main.py",,"PythonRunner",,"1644991476513","main.py"
+"o","3",,"
+",,"stdout","1644991476857",
+"o","3",,"
+",,"stdout","1644991476857",
+"o","3",,"                       Oil Level:  0 >>EMPTY<<
+",,"stdout","1644991476857",
+"o","3",,"                      Fuel Level:  0 >>EMPTY<<
+",,"stdout","1644991476857",
+"o","3",,"                        Throttle:  not advanced
+",,"stdout","1644991476857",
+"o","3",,"                           Choke:  not engaged
+",,"stdout","1644991476857",
+"o","3",,"                     Fuel Cutoff:  fuel off
+",,"stdout","1644991476857",
+"o","3",,"                       Generator:  not engaged
+",,"stdout","1644991476857",
+"o","3",,"                        Breakers:  not engaged
+",,"stdout","1644991476857",
+"o","3",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991476857",
+"o","3",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991476857",
+"o","3",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991476857",
+"o","3",,"
+",,"stdout","1644991476857",
+"o","3",,"	s - starter button                   b - breaker engage on/off         
+",,"stdout","1644991476857",
+"o","3",,"	t - advance/retard throttle          f - add diesel fuel               
+",,"stdout","1644991476857",
+"o","3",,"	c - choke on/off                     o - add oil                       
+",,"stdout","1644991476857",
+"o","3",,"	v - fuel cutoff valve open/closed    w - wait                          
+",,"stdout","1644991476857",
+"o","3",,"	g - generator engage on/off          q - quit                          
+",,"stdout","1644991476857",
+"o","3",,"
+",,"stdout","1644991476857",
+"o","3",,"	p - panel                            m - menu                          
+",,"stdout","1644991476857",
+"o","3",,"
+",,"stdout","1644991476857",
+"o","3",,"action: ",,"stdout","1644991476857",
+"o","3",,"You put in a quart of oil.
+",,"stdout","1644991481182",
+"o","3",,"
+",,"stdout","1644991481182",
+"o","3",,"action: ",,"stdout","1644991481182",
+"o","3",,"Most bring engine to operating speed first. The engine has died...
+",,"stdout","1644991482424",
+"o","3",,"
+",,"stdout","1644991482424",
+"o","3",,"action: ",,"stdout","1644991482424",
+"o","3",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991487441",
+"o","3",,"
+",,"stdout","1644991487441",
+"o","3",,"action: ",,"stdout","1644991487441",
+"o","3",,"You engage the engine choke.
+",,"stdout","1644991496142",
+"o","3",,"
+",,"stdout","1644991496142",
+"o","3",,"action: ",,"stdout","1644991496142",
+"o","3",,"You set the Fuel Cutoff Valve to ""fuel on"".
+",,"stdout","1644991500110",
+"o","3",,"
+",,"stdout","1644991500110",
+"o","3",,"action: ",,"stdout","1644991500110",
+"o","3",,"
+",,"stdout","1644991505529",
+"o","3",,"
+",,"stdout","1644991505529",
+"o","3",,"                       Oil Level:  1 >>LOW<<
+",,"stdout","1644991505529",
+"o","3",,"                      Fuel Level:  1 >>LOW<<
+",,"stdout","1644991505529",
+"o","3",,"                        Throttle:  not advanced
+",,"stdout","1644991505529",
+"o","3",,"                           Choke:  engaged
+",,"stdout","1644991505529",
+"o","3",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991505529",
+"o","3",,"                       Generator:  not engaged
+",,"stdout","1644991505529",
+"o","3",,"                        Breakers:  not engaged
+",,"stdout","1644991505529",
+"o","3",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991505529",
+"o","3",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991505529",
+"o","3",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991505529",
+"o","3",,"
+",,"stdout","1644991505529",
+"o","3",,"action: ",,"stdout","1644991505529",
+"o","3",,"You punch the starter button.
+",,"stdout","1644991512219",
+"o","3",,"The engine sputters to life!
+",,"stdout","1644991512219",
+"o","3",,"
+",,"stdout","1644991512219",
+"o","3",,"action: ",,"stdout","1644991512219",
+"o","3",,"You disengage the engine choke.
+",,"stdout","1644991514471",
+"o","3",,"
+",,"stdout","1644991514471",
+"o","3",,"action: ",,"stdout","1644991514471",
+"o","3",,"You advance the throttle.
+",,"stdout","1644991515265",
+"o","3",,"The engine revs up to operating speed.
+",,"stdout","1644991515265",
+"o","3",,"
+",,"stdout","1644991515265",
+"o","3",,"action: ",,"stdout","1644991515265",
+"o","3",,"Generator is engaged
+",,"stdout","1644991518344",
+"o","3",,"
+",,"stdout","1644991518344",
+"o","3",,"action: ",,"stdout","1644991518344",
+"o","3",,"You back off the throttle.
+",,"stdout","1644991522079",
+"o","3",,"The engine drops to idle.
+",,"stdout","1644991522079",
+"o","3",,"
+",,"stdout","1644991522079",
+"o","3",,"action: ",,"stdout","1644991522079",
+"o","3",,"Traceback (most recent call last):
+",,"stderr","1644991612289",
+"o","3",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn4\Murdock-Alexander-Assn4\main.py"", line 117, in <module>
+",,"stderr","1644991612289",
+"o","3",,"    r = input(""action: "")
+",,"stderr","1644991612289",
+"o","3",,"  File ""C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\codecs.py"", line 319, in decode
+",,"stderr","1644991612289",
+"o","3",,"    def decode(self, input, final=False):
+",,"stderr","1644991612289",
+"o","3",,"KeyboardInterrupt
+",,"stderr","1644991612289",
+"o","3",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1644991612289",
+"r","4","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn4/Murdock-Alexander-Assn4/main.py",,"PythonRunner",,"1644991613734","main.py"
+"o","4",,"
+",,"stdout","1644991614162",
+"o","4",,"
+",,"stdout","1644991614162",
+"o","4",,"                       Oil Level:  0 >>EMPTY<<
+",,"stdout","1644991614162",
+"o","4",,"                      Fuel Level:  0 >>EMPTY<<
+",,"stdout","1644991614162",
+"o","4",,"                        Throttle:  not advanced
+",,"stdout","1644991614162",
+"o","4",,"                           Choke:  not engaged
+",,"stdout","1644991614162",
+"o","4",,"                     Fuel Cutoff:  fuel off
+",,"stdout","1644991614162",
+"o","4",,"                       Generator:  not engaged
+",,"stdout","1644991614162",
+"o","4",,"                        Breakers:  not engaged
+",,"stdout","1644991614162",
+"o","4",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991614162",
+"o","4",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991614162",
+"o","4",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991614162",
+"o","4",,"
+",,"stdout","1644991614162",
+"o","4",,"	s - starter button                   b - breaker engage on/off         
+",,"stdout","1644991614162",
+"o","4",,"	t - advance/retard throttle          f - add diesel fuel               
+",,"stdout","1644991614162",
+"o","4",,"	c - choke on/off                     o - add oil                       
+",,"stdout","1644991614162",
+"o","4",,"	v - fuel cutoff valve open/closed    w - wait                          
+",,"stdout","1644991614162",
+"o","4",,"	g - generator engage on/off          q - quit                          
+",,"stdout","1644991614162",
+"o","4",,"
+",,"stdout","1644991614162",
+"o","4",,"	p - panel                            m - menu                          
+",,"stdout","1644991614162",
+"o","4",,"
+",,"stdout","1644991614162",
+"o","4",,"action: ",,"stdout","1644991614162",
+"o","4",,"You put in a quart of oil.
+",,"stdout","1644991617438",
+"o","4",,"
+",,"stdout","1644991617438",
+"o","4",,"action: ",,"stdout","1644991617438",
+"o","4",,"You put in a quart of oil.
+",,"stdout","1644991617858",
+"o","4",,"
+",,"stdout","1644991617858",
+"o","4",,"action: ",,"stdout","1644991617858",
+"o","4",,"You put in a quart of oil.
+",,"stdout","1644991618160",
+"o","4",,"
+",,"stdout","1644991618160",
+"o","4",,"action: ",,"stdout","1644991618160",
+"o","4",,"The oil reservoir already is full.
+",,"stdout","1644991618479",
+"o","4",,"
+",,"stdout","1644991618479",
+"o","4",,"action: ",,"stdout","1644991618479",
+"o","4",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991620745",
+"o","4",,"
+",,"stdout","1644991620745",
+"o","4",,"action: ",,"stdout","1644991620745",
+"o","4",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991621921",
+"o","4",,"
+",,"stdout","1644991621921",
+"o","4",,"action: ",,"stdout","1644991621921",
+"o","4",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991622203",
+"o","4",,"
+",,"stdout","1644991622203",
+"o","4",,"action: ",,"stdout","1644991622203",
+"o","4",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991622407",
+"o","4",,"
+",,"stdout","1644991622407",
+"o","4",,"action: ",,"stdout","1644991622407",
+"o","4",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991622628",
+"o","4",,"
+",,"stdout","1644991622628",
+"o","4",,"action: ",,"stdout","1644991622628",
+"o","4",,"The tank is already full.
+",,"stdout","1644991623475",
+"o","4",,"
+",,"stdout","1644991623475",
+"o","4",,"action: ",,"stdout","1644991623475",
+"o","4",,"You engage the engine choke.
+",,"stdout","1644991626733",
+"o","4",,"
+",,"stdout","1644991626733",
+"o","4",,"action: ",,"stdout","1644991626733",
+"o","4",,"You set the Fuel Cutoff Valve to ""fuel on"".
+",,"stdout","1644991627731",
+"o","4",,"
+",,"stdout","1644991627731",
+"o","4",,"action: ",,"stdout","1644991627731",
+"o","4",,"
+",,"stdout","1644991636788",
+"o","4",,"
+",,"stdout","1644991636788",
+"o","4",,"                       Oil Level:  3 >>FULL<<
+",,"stdout","1644991636788",
+"o","4",,"                      Fuel Level:  5 >>FULL<<
+",,"stdout","1644991636788",
+"o","4",,"                        Throttle:  not advanced
+",,"stdout","1644991636788",
+"o","4",,"                           Choke:  engaged
+",,"stdout","1644991636788",
+"o","4",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991636788",
+"o","4",,"                       Generator:  not engaged
+",,"stdout","1644991636788",
+"o","4",,"                        Breakers:  not engaged
+",,"stdout","1644991636788",
+"o","4",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991636788",
+"o","4",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991636788",
+"o","4",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991636788",
+"o","4",,"
+",,"stdout","1644991636788",
+"o","4",,"action: ",,"stdout","1644991636788",
+"o","4",,"You punch the starter button.
+",,"stdout","1644991650547",
+"o","4",,"The engine sputters to life!
+",,"stdout","1644991650547",
+"o","4",,"
+",,"stdout","1644991650547",
+"o","4",,"action: ",,"stdout","1644991650547",
+"o","4",,"You disengage the engine choke.
+",,"stdout","1644991652527",
+"o","4",,"
+",,"stdout","1644991652527",
+"o","4",,"action: ",,"stdout","1644991652527",
+"o","4",,"You advance the throttle.
+",,"stdout","1644991660293",
+"o","4",,"The engine revs up to operating speed.
+",,"stdout","1644991660293",
+"o","4",,"
+",,"stdout","1644991660293",
+"o","4",,"action: ",,"stdout","1644991660293",
+"o","4",,"Generator is engaged
+",,"stdout","1644991662133",
+"o","4",,"
+",,"stdout","1644991662133",
+"o","4",,"action: ",,"stdout","1644991662133",
+"o","4",,"
+",,"stdout","1644991663565",
+"o","4",,"
+",,"stdout","1644991663565",
+"o","4",,"                       Oil Level:  3 >>FULL<<
+",,"stdout","1644991663565",
+"o","4",,"                      Fuel Level:  5 >>FULL<<
+",,"stdout","1644991663565",
+"o","4",,"                        Throttle:  advanced
+",,"stdout","1644991663565",
+"o","4",,"                           Choke:  not engaged
+",,"stdout","1644991663565",
+"o","4",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991663565",
+"o","4",,"                       Generator:  Engaged
+",,"stdout","1644991663565",
+"o","4",,"                        Breakers:  not engaged
+",,"stdout","1644991663565",
+"o","4",,"                   The engine is:  >>At Speed<<
+",,"stdout","1644991663565",
+"o","4",,"                The generator is:  >>Spinning<<
+",,"stdout","1644991663565",
+"o","4",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991663565",
+"o","4",,"
+",,"stdout","1644991663565",
+"o","4",,"action: ",,"stdout","1644991663565",
+"o","4",,"You back off the throttle.
+",,"stdout","1644991677577",
+"o","4",,"The engine drops to idle.
+",,"stdout","1644991677577",
+"o","4",,"
+",,"stdout","1644991677577",
+"o","4",,"action: ",,"stdout","1644991677577",
+"o","4",,"
+",,"stdout","1644991681102",
+"o","4",,"
+",,"stdout","1644991681102",
+"o","4",,"                       Oil Level:  3 >>FULL<<
+",,"stdout","1644991681102",
+"o","4",,"                      Fuel Level:  5 >>FULL<<
+",,"stdout","1644991681102",
+"o","4",,"                        Throttle:  not advanced
+",,"stdout","1644991681102",
+"o","4",,"                           Choke:  not engaged
+",,"stdout","1644991681102",
+"o","4",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991681102",
+"o","4",,"                       Generator:  not engaged
+",,"stdout","1644991681102",
+"o","4",,"                        Breakers:  not engaged
+",,"stdout","1644991681102",
+"o","4",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991681102",
+"o","4",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991681102",
+"o","4",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991681102",
+"o","4",,"
+",,"stdout","1644991681102",
+"o","4",,"action: ",,"stdout","1644991681102",
+"o","4",,"Traceback (most recent call last):
+",,"stderr","1644991739589",
+"o","4",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn4\Murdock-Alexander-Assn4\main.py"", line 117, in <module>
+",,"stderr","1644991739589",
+"o","4",,"    r = input(""action: "")
+",,"stderr","1644991739589",
+"o","4",,"  File ""C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\codecs.py"", line 319, in decode
+",,"stderr","1644991739589",
+"o","4",,"    def decode(self, input, final=False):
+",,"stderr","1644991739589",
+"o","4",,"KeyboardInterrupt
+",,"stderr","1644991739589",
+"o","4",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1644991739597",
+"r","5","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn4/Murdock-Alexander-Assn4/main.py",,"PythonRunner",,"1644991741051","main.py"
+"o","5",,"
+",,"stdout","1644991741567",
+"o","5",,"
+",,"stdout","1644991741567",
+"o","5",,"                       Oil Level:  0 >>EMPTY<<
+",,"stdout","1644991741567",
+"o","5",,"                      Fuel Level:  0 >>EMPTY<<
+",,"stdout","1644991741567",
+"o","5",,"                        Throttle:  not advanced
+",,"stdout","1644991741567",
+"o","5",,"                           Choke:  not engaged
+",,"stdout","1644991741567",
+"o","5",,"                     Fuel Cutoff:  fuel off
+",,"stdout","1644991741567",
+"o","5",,"                       Generator:  not engaged
+",,"stdout","1644991741567",
+"o","5",,"                        Breakers:  not engaged
+",,"stdout","1644991741567",
+"o","5",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991741567",
+"o","5",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991741567",
+"o","5",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991741567",
+"o","5",,"
+",,"stdout","1644991741567",
+"o","5",,"	s - starter button                   b - breaker engage on/off         
+",,"stdout","1644991741567",
+"o","5",,"	t - advance/retard throttle          f - add diesel fuel               
+",,"stdout","1644991741567",
+"o","5",,"	c - choke on/off                     o - add oil                       
+",,"stdout","1644991741567",
+"o","5",,"	v - fuel cutoff valve open/closed    w - wait                          
+",,"stdout","1644991741567",
+"o","5",,"	g - generator engage on/off          q - quit                          
+",,"stdout","1644991741567",
+"o","5",,"
+",,"stdout","1644991741567",
+"o","5",,"	p - panel                            m - menu                          
+",,"stdout","1644991741567",
+"o","5",,"
+",,"stdout","1644991741567",
+"o","5",,"action: ",,"stdout","1644991741567",
+"o","5",,"You put in a quart of oil.
+",,"stdout","1644991743551",
+"o","5",,"
+",,"stdout","1644991743551",
+"o","5",,"action: ",,"stdout","1644991743551",
+"o","5",,"You put in a quart of oil.
+",,"stdout","1644991743738",
+"o","5",,"
+",,"stdout","1644991743738",
+"o","5",,"action: ",,"stdout","1644991743738",
+"o","5",,"huh?
+",,"stdout","1644991743911",
+"o","5",,"action: ",,"stdout","1644991743911",
+"o","5",,"huh?
+",,"stdout","1644991744075",
+"o","5",,"action: ",,"stdout","1644991744075",
+"o","5",,"You put in a quart of oil.
+",,"stdout","1644991744266",
+"o","5",,"
+",,"stdout","1644991744266",
+"o","5",,"action: ",,"stdout","1644991744266",
+"o","5",,"huh?
+",,"stdout","1644991744426",
+"o","5",,"action: ",,"stdout","1644991744426",
+"o","5",,"The oil reservoir already is full.
+",,"stdout","1644991746070",
+"o","5",,"
+",,"stdout","1644991746070",
+"o","5",,"action: ",,"stdout","1644991746070",
+"o","5",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991746752",
+"o","5",,"
+",,"stdout","1644991746752",
+"o","5",,"action: ",,"stdout","1644991746752",
+"o","5",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991746944",
+"o","5",,"
+",,"stdout","1644991746944",
+"o","5",,"action: ",,"stdout","1644991746944",
+"o","5",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991747168",
+"o","5",,"
+",,"stdout","1644991747168",
+"o","5",,"action: ",,"stdout","1644991747168",
+"o","5",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991747358",
+"o","5",,"
+",,"stdout","1644991747358",
+"o","5",,"action: ",,"stdout","1644991747358",
+"o","5",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991747583",
+"o","5",,"
+",,"stdout","1644991747583",
+"o","5",,"action: ",,"stdout","1644991747583",
+"o","5",,"The tank is already full.
+",,"stdout","1644991747787",
+"o","5",,"
+",,"stdout","1644991747787",
+"o","5",,"action: ",,"stdout","1644991747787",
+"o","5",,"The tank is already full.
+",,"stdout","1644991747993",
+"o","5",,"
+",,"stdout","1644991747993",
+"o","5",,"action: ",,"stdout","1644991747993",
+"o","5",,"You engage the engine choke.
+",,"stdout","1644991748595",
+"o","5",,"
+",,"stdout","1644991748595",
+"o","5",,"action: ",,"stdout","1644991748595",
+"o","5",,"You set the Fuel Cutoff Valve to ""fuel on"".
+",,"stdout","1644991749009",
+"o","5",,"
+",,"stdout","1644991749009",
+"o","5",,"action: ",,"stdout","1644991749009",
+"o","5",,"You punch the starter button.
+",,"stdout","1644991752783",
+"o","5",,"The engine sputters to life!
+",,"stdout","1644991752783",
+"o","5",,"
+",,"stdout","1644991752783",
+"o","5",,"action: ",,"stdout","1644991752783",
+"o","5",,"You disengage the engine choke.
+",,"stdout","1644991754503",
+"o","5",,"
+",,"stdout","1644991754503",
+"o","5",,"action: ",,"stdout","1644991754503",
+"o","5",,"
+",,"stdout","1644991764238",
+"o","5",,"
+",,"stdout","1644991764238",
+"o","5",,"                       Oil Level:  3 >>FULL<<
+",,"stdout","1644991764238",
+"o","5",,"                      Fuel Level:  5 >>FULL<<
+",,"stdout","1644991764238",
+"o","5",,"                        Throttle:  not advanced
+",,"stdout","1644991764238",
+"o","5",,"                           Choke:  not engaged
+",,"stdout","1644991764238",
+"o","5",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991764238",
+"o","5",,"                       Generator:  not engaged
+",,"stdout","1644991764238",
+"o","5",,"                        Breakers:  not engaged
+",,"stdout","1644991764238",
+"o","5",,"                   The engine is:  >>At Idle<<
+",,"stdout","1644991764238",
+"o","5",,"                The generator is:  >>Spinning<<
+",,"stdout","1644991764238",
+"o","5",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991764238",
+"o","5",,"
+",,"stdout","1644991764238",
+"o","5",,"action: ",,"stdout","1644991764238",
+"o","5",,"You advance the throttle.
+",,"stdout","1644991766848",
+"o","5",,"The engine revs up to operating speed.
+",,"stdout","1644991766848",
+"o","5",,"
+",,"stdout","1644991766848",
+"o","5",,"action: ",,"stdout","1644991766848",
+"o","5",,"
+",,"stdout","1644991769278",
+"o","5",,"
+",,"stdout","1644991769278",
+"o","5",,"                       Oil Level:  3 >>FULL<<
+",,"stdout","1644991769278",
+"o","5",,"                      Fuel Level:  5 >>FULL<<
+",,"stdout","1644991769278",
+"o","5",,"                        Throttle:  advanced
+",,"stdout","1644991769278",
+"o","5",,"                           Choke:  not engaged
+",,"stdout","1644991769278",
+"o","5",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991769278",
+"o","5",,"                       Generator:  not engaged
+",,"stdout","1644991769278",
+"o","5",,"                        Breakers:  not engaged
+",,"stdout","1644991769278",
+"o","5",,"                   The engine is:  >>At Speed<<
+",,"stdout","1644991769278",
+"o","5",,"                The generator is:  >>Spinning<<
+",,"stdout","1644991769278",
+"o","5",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991769278",
+"o","5",,"
+",,"stdout","1644991769278",
+"o","5",,"action: ",,"stdout","1644991769278",
+"o","5",,"Generator is engaged
+",,"stdout","1644991770387",
+"o","5",,"
+",,"stdout","1644991770387",
+"o","5",,"action: ",,"stdout","1644991770387",
+"o","5",,"You back off the throttle.
+",,"stdout","1644991772027",
+"o","5",,"The engine drops to idle.
+",,"stdout","1644991772027",
+"o","5",,"You have killed both the generater and the engine
+",,"stdout","1644991772027",
+"o","5",,"
+",,"stdout","1644991772027",
+"o","5",,"action: ",,"stdout","1644991772027",
+"o","5",,"Traceback (most recent call last):
+",,"stderr","1644991811272",
+"o","5",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn4\Murdock-Alexander-Assn4\main.py"", line 117, in <module>
+",,"stderr","1644991811272",
+"o","5",,"    r = input(""action: "")
+",,"stderr","1644991811272",
+"o","5",,"  File ""C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\codecs.py"", line 319, in decode
+",,"stderr","1644991811272",
+"o","5",,"    def decode(self, input, final=False):
+",,"stderr","1644991811272",
+"o","5",,"KeyboardInterrupt
+",,"stderr","1644991811272",
+"o","5",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1644991811280",
+"r","6","C:\Users\Likel\AppData\Local\Microsoft\WindowsApps\python3.9.exe C:/Users/Likel/PycharmProjects/Murdock-Alexander-Assn4/Murdock-Alexander-Assn4/main.py",,"PythonRunner",,"1644991812730","main.py"
+"o","6",,"
+",,"stdout","1644991813150",
+"o","6",,"
+",,"stdout","1644991813150",
+"o","6",,"                       Oil Level:  0 >>EMPTY<<
+",,"stdout","1644991813150",
+"o","6",,"                      Fuel Level:  0 >>EMPTY<<
+",,"stdout","1644991813150",
+"o","6",,"                        Throttle:  not advanced
+",,"stdout","1644991813150",
+"o","6",,"                           Choke:  not engaged
+",,"stdout","1644991813150",
+"o","6",,"                     Fuel Cutoff:  fuel off
+",,"stdout","1644991813150",
+"o","6",,"                       Generator:  not engaged
+",,"stdout","1644991813150",
+"o","6",,"                        Breakers:  not engaged
+",,"stdout","1644991813150",
+"o","6",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991813150",
+"o","6",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991813150",
+"o","6",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991813150",
+"o","6",,"
+",,"stdout","1644991813150",
+"o","6",,"	s - starter button                   b - breaker engage on/off         
+",,"stdout","1644991813150",
+"o","6",,"	t - advance/retard throttle          f - add diesel fuel               
+",,"stdout","1644991813150",
+"o","6",,"	c - choke on/off                     o - add oil                       
+",,"stdout","1644991813150",
+"o","6",,"	v - fuel cutoff valve open/closed    w - wait                          
+",,"stdout","1644991813150",
+"o","6",,"	g - generator engage on/off          q - quit                          
+",,"stdout","1644991813150",
+"o","6",,"
+",,"stdout","1644991813150",
+"o","6",,"	p - panel                            m - menu                          
+",,"stdout","1644991813150",
+"o","6",,"
+",,"stdout","1644991813150",
+"o","6",,"action: ",,"stdout","1644991813150",
+"o","6",,"You put in a quart of oil.
+",,"stdout","1644991816595",
+"o","6",,"
+",,"stdout","1644991816595",
+"o","6",,"action: ",,"stdout","1644991816595",
+"o","6",,"You put in a quart of oil.
+",,"stdout","1644991817074",
+"o","6",,"
+",,"stdout","1644991817074",
+"o","6",,"action: ",,"stdout","1644991817074",
+"o","6",,"You put in a quart of oil.
+",,"stdout","1644991817518",
+"o","6",,"
+",,"stdout","1644991817518",
+"o","6",,"action: ",,"stdout","1644991817518",
+"o","6",,"The oil reservoir already is full.
+",,"stdout","1644991817944",
+"o","6",,"
+",,"stdout","1644991817944",
+"o","6",,"action: ",,"stdout","1644991817944",
+"o","6",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991818856",
+"o","6",,"
+",,"stdout","1644991818856",
+"o","6",,"action: ",,"stdout","1644991818856",
+"o","6",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991819109",
+"o","6",,"
+",,"stdout","1644991819109",
+"o","6",,"action: ",,"stdout","1644991819109",
+"o","6",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991819402",
+"o","6",,"
+",,"stdout","1644991819402",
+"o","6",,"action: ",,"stdout","1644991819402",
+"o","6",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991819646",
+"o","6",,"
+",,"stdout","1644991819646",
+"o","6",,"action: ",,"stdout","1644991819646",
+"o","6",,"You pour in a gallon of diesel fuel.
+",,"stdout","1644991819973",
+"o","6",,"
+",,"stdout","1644991819973",
+"o","6",,"action: ",,"stdout","1644991819973",
+"o","6",,"You engage the engine choke.
+",,"stdout","1644991820908",
+"o","6",,"
+",,"stdout","1644991820908",
+"o","6",,"action: ",,"stdout","1644991820908",
+"o","6",,"You set the Fuel Cutoff Valve to ""fuel on"".
+",,"stdout","1644991821607",
+"o","6",,"
+",,"stdout","1644991821607",
+"o","6",,"action: ",,"stdout","1644991821607",
+"o","6",,"You punch the starter button.
+",,"stdout","1644991822338",
+"o","6",,"The engine sputters to life!
+",,"stdout","1644991822338",
+"o","6",,"
+",,"stdout","1644991822338",
+"o","6",,"action: ",,"stdout","1644991822338",
+"o","6",,"You disengage the engine choke.
+",,"stdout","1644991823343",
+"o","6",,"
+",,"stdout","1644991823343",
+"o","6",,"action: ",,"stdout","1644991823343",
+"o","6",,"You advance the throttle.
+",,"stdout","1644991824109",
+"o","6",,"The engine revs up to operating speed.
+",,"stdout","1644991824109",
+"o","6",,"
+",,"stdout","1644991824109",
+"o","6",,"action: ",,"stdout","1644991824109",
+"o","6",,"Generator is engaged
+",,"stdout","1644991824876",
+"o","6",,"
+",,"stdout","1644991824876",
+"o","6",,"action: ",,"stdout","1644991824876",
+"o","6",,"
+",,"stdout","1644991826282",
+"o","6",,"
+",,"stdout","1644991826282",
+"o","6",,"                       Oil Level:  3 >>FULL<<
+",,"stdout","1644991826282",
+"o","6",,"                      Fuel Level:  5 >>FULL<<
+",,"stdout","1644991826282",
+"o","6",,"                        Throttle:  advanced
+",,"stdout","1644991826282",
+"o","6",,"                           Choke:  not engaged
+",,"stdout","1644991826282",
+"o","6",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991826282",
+"o","6",,"                       Generator:  Engaged
+",,"stdout","1644991826282",
+"o","6",,"                        Breakers:  not engaged
+",,"stdout","1644991826282",
+"o","6",,"                   The engine is:  >>At Speed<<
+",,"stdout","1644991826282",
+"o","6",,"                The generator is:  >>Spinning<<
+",,"stdout","1644991826282",
+"o","6",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991826282",
+"o","6",,"
+",,"stdout","1644991826282",
+"o","6",,"action: ",,"stdout","1644991826282",
+"o","6",,"You back off the throttle.
+",,"stdout","1644991849031",
+"o","6",,"You have killed both the generater and the engine
+",,"stdout","1644991849031",
+"o","6",,"
+",,"stdout","1644991849031",
+"o","6",,"action: ",,"stdout","1644991849031",
+"o","6",,"
+",,"stdout","1644991865284",
+"o","6",,"
+",,"stdout","1644991865284",
+"o","6",,"                       Oil Level:  3 >>FULL<<
+",,"stdout","1644991865284",
+"o","6",,"                      Fuel Level:  5 >>FULL<<
+",,"stdout","1644991865284",
+"o","6",,"                        Throttle:  not advanced
+",,"stdout","1644991865284",
+"o","6",,"                           Choke:  not engaged
+",,"stdout","1644991865284",
+"o","6",,"                     Fuel Cutoff:  fuel on
+",,"stdout","1644991865284",
+"o","6",,"                       Generator:  not engaged
+",,"stdout","1644991865284",
+"o","6",,"                        Breakers:  not engaged
+",,"stdout","1644991865284",
+"o","6",,"                   The engine is:  >>Not Running<<
+",,"stdout","1644991865284",
+"o","6",,"                The generator is:  >>Not Spinning<<
+",,"stdout","1644991865284",
+"o","6",,"                  The lights are:  >>OFF<<
+",,"stdout","1644991865284",
+"o","6",,"
+",,"stdout","1644991865284",
+"o","6",,"action: ",,"stdout","1644991865284",
+"o","6",,"Traceback (most recent call last):
+",,"stderr","1644991937069",
+"o","6",,"  File ""C:\Users\Likel\PycharmProjects\Murdock-Alexander-Assn4\Murdock-Alexander-Assn4\main.py"", line 117, in <module>
+",,"stderr","1644991937069",
+"o","6",,"    r = input(""action: "")
+",,"stderr","1644991937069",
+"o","6",,"  File ""C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\lib\codecs.py"", line 319, in decode
+",,"stderr","1644991937069",
+"o","6",,"    def decode(self, input, final=False):
+",,"stderr","1644991937069",
+"o","6",,"KeyboardInterrupt
+",,"stderr","1644991937069",
+"o","6",,"
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
+",,"system","1644991937069",
